@@ -38,6 +38,7 @@ Mọi file Claude tạo cho anh đều nằm trong thư mục này. **Đọc fil
 | [Kho phong cách David & Hanna](3-creative/NOVDAT_CHARACTER_STYLE_LIBRARY.md) | Ranh giới, hồ sơ, phong cách ảnh, 10 câu nói | **Đã duyệt 05/11** |
 | [Hook Lab](3-creative/HOOK_LAB_0511.md) | Bài học từ video tham khảo, 10 hook | Đang dùng |
 | [Bản mô tả 2 video (bản 2)](3-creative/VIDEO_SPEC_TEST_0811.md) | Kịch bản, hook, tiêu chí đạt, token | Chờ anh duyệt lần cuối |
+| [Kittl: tính năng và cách dùng](3-creative/KITTL_TINH_NANG_VA_CACH_DUNG_0511.md) | 126 workflow, video UGC, Brand Kit, nơi chứa design, 3 cách làm 11 thẻ ảnh | 05/11, chờ anh chốt |
 | [Ảnh & video thời trang Mỹ](3-creative/NOVDAT_PHOTO_VIDEO_STYLE_0511.md) | Tổng hợp phong cách + Bộ A/B/C | Tham khảo |
 | [Phiếu video Uphill / Not Fast](3-creative/PHIEU_VIDEO_UPHILL_NOTFAST_0511.md) | Phiếu đầu (đã thay bằng bản mô tả video) | Lưu |
 | `3-creative/hook-lab/` | Phiếu Hook Lab hằng tuần (thứ Sáu, từ 14/11) | Tự sinh |
