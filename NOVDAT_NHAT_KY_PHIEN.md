@@ -26,6 +26,31 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Phân tích Pinterest Trends 18–34 (5 CSV anh xuất) + câu hỏi về TikTok
+
+- **Đã làm:**
+  - Lưu 5 file CSV vào `trend-radar/pinterest-2026-11-02/`.
+  - Viết [báo cáo Pinterest 18–34](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-pinterest-18-34.md).
+- **Kết quả chính** (người Mỹ 18–34; mức §7 chỉ là gợi ý):
+  - **Running:** các cụm đồ chạy mùa lạnh tăng 100–200% trong tháng. Gợi ý **Vừa**, nghiêng lên với Hoodie/Sweatshirt.
+  - **Pickleball:** đang giảm 30–40%. Gợi ý **Thấp**.
+  - **Noel:** christmas outfit tăng 100–200% trong tháng; ảnh gia đình mặc đồng bộ tăng 300% so với năm ngoái; phong cách thập niên 90 đang lên. Gợi ý **Vừa đến Cao**.
+- **TikTok:**
+  - App TikTok trên Shopify dùng để đồng bộ sản phẩm, gắn pixel và chạy quảng cáo, **không có dữ liệu xu hướng**.
+  - Bước "Ads Manager → Create New" là tạo tài khoản quảng cáo, việc này **anh quyết**. Không cần tạo chỉ để lấy dữ liệu.
+  - Đề xuất anh mở thẳng link TikTok Creative Center (gửi trong chat).
+- **Sidekick trong ảnh của anh:** đó là AI của Shopify, gợi ý hero "Runs on Snacks & Denial" và hỏi về giảm giá. Gợi ý này lệch khỏi kế hoạch test In Motion. Claude **không làm theo**; anh quyết.
+- **Đã ghi ra ngoài:**
+  - Thị trấn: Tiến độ 42 lên 55%, có tóm tắt và link.
+  - GitHub: báo cáo + 5 CSV.
+  - Không đụng Shopify, TikTok hay Meta.
+- **Chờ anh quyết:**
+  1. Ghép model AI: Hanna với Hoodie/Sweatshirt chạy mùa lạnh, David với Sweatshirt nam? Anh chốt sản phẩm cụ thể.
+  2. Có tạo TikTok Ads Manager không (loại C)? Claude đề xuất **chưa**.
+  3. Nếu muốn đo thêm: xuất `ugly christmas sweater`, `christmas sweatshirt`, `running hoodie`, `gifts for runners`.
+
+---
+
 ## 05/11 — Anh đề nghị cho Claude dùng Pinterest Trends và TikTok Ads đang đăng nhập trên Firefox
 
 - **Claude chưa dùng.** Hai lý do:
