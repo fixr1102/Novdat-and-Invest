@@ -89,6 +89,19 @@ Token còn: **7.720**.
   4. Chặn "vẻ AI": máy cầm tay, tốc độ thật, không hơi thở khói, không nhìn ống kính, không chữ trong nền.
 - **Tiếng:** bật tiếng nền của Seedance, prompt chỉ cho tiếng phố (xe xa, bước chân, lá khô). **Cấm nhạc, lời nói, thuyết minh.** Nếu tiếng ra không hợp, anh tắt tiếng gốc khi ghép.
 
+**Video 2 · Hanna, lần 2 (anh góp ý lần 1: bối cảnh trông AI, kịch bản và chuyển động chưa đúng, mặt và dáng chưa ổn):**
+- **Kịch bản mới (anh chốt):** chiều tối có đèn đường, **12 giây**.
+  - 0–4 giây: Hanna chạy từ xa tới gần máy.
+  - 4–7 giây: dừng nghỉ, hơi mệt; chữ in đọc rõ.
+  - 7–10 giây: vui vẻ ngắm phố.
+  - 10–12 giây: chạy tiếp, lướt ngang qua máy.
+  - Chữ hook (anh ghép): **"Quick break. Not done."**
+- **Cách sửa:**
+  1. Tạo **ảnh khung mở trước** (20 token, [xem](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw39d790000000il8uuqi4na)). Bối cảnh tả theo một con phố Park Slope có thật, gồm những chi tiết đời thường: thùng rác tái chế, xe đạp khoá ở lan can, vòi chữa cháy, lá trong rãnh, người dắt chó ở xa. Claude tự kiểm ảnh, thấy đạt rồi mới làm video.
+  2. Video **bắt đầu từ ảnh đó** (lần 1 không có khung mở). Máy đứng yên ngang ngực, chỉ rung rất nhẹ.
+  3. 2 ảnh gốc của Hanna dùng làm tham chiếu để giữ mặt; prompt yêu cầu giữ mặt, tóc, dáng suốt video.
+- **Thông số:** Seedance 2.0, 12 giây, tiếng nền phố, **420 token**. Job `cmw39f9mm000100il32c66vml`.
+
 ## Âm thanh: công cụ và luật
 
 | Cách | Dùng cho | Ghi chú |
