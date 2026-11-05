@@ -25,6 +25,17 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Trả lời: dữ liệu lấy ở đâu, và đề xuất thu thập dữ liệu Mỹ 18–35
+
+- **Đã làm:**
+  - Giải thích nguồn của Trend Radar 05/11 (xem chat).
+  - Kiểm mạng cloud tới 7 nguồn dữ liệu Mỹ: Google Trends, Pinterest Trends, TikTok Creative Center, Amazon, Etsy, Meta Ad Library, Census. **Cả 7 đều bị chặn.**
+  - Đề xuất 4 lớp dữ liệu (xem chat).
+- **Đã ghi ra ngoài:** chỉ file nhật ký này. Không đụng Shopify hay Thị trấn.
+- **Chờ anh quyết:** 3 câu hỏi cuối tin nhắn chat: chọn lớp dữ liệu, chạy trên cloud hay máy local, có làm khảo sát trả phí không.
+
+---
+
 ## 05/11 — Chạy Trend Radar lần đầu (Running · Pickleball · Noel)
 
 - **Đã làm:**
