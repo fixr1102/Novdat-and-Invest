@@ -26,6 +26,40 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Giao việc m1 định kỳ, cặp ảnh thử 1, bản mô tả video chờ duyệt
+
+- **Anh chốt:**
+  1. Giao cho team Marketing 1 việc nghiên cứu xu hướng áo cuối năm, báo cáo định kỳ, nhắc anh đọc, có đề xuất để bán được hàng.
+  2. Đồng ý các đề xuất tốt cho David và Hanna.
+  3. Lô thử 6 ảnh: tạo **từng cặp 2 ảnh**, anh OK mới làm cặp tiếp.
+  4. Thử từng phong cách một.
+  5. Ảnh đôi: OK.
+  6. Video phải có bản mô tả đầy đủ, anh duyệt mới tạo; tránh "ảnh AI quá".
+- **Đã làm:**
+  - **Giao việc cho m1 (Nghiên cứu thị trường):** lịch tự động **thứ Hai và thứ Năm, 08:13 giờ VN**. Lần đầu 09/11. Mỗi lần mở phiên mới và **có thông báo về điện thoại**. Báo cáo lưu ở `trend-radar/<ngày>-m1-xu-huong-cuoi-nam.md`, kèm tối đa 5 đề xuất. Chỉ đọc, không chi tiền.
+    - Lưu ý: lịch này **không mang theo connector** (Shopify, Meta, Kittl…). Việc này không cần connector nên không ảnh hưởng. Nếu sau này cần thì tạo lại lịch trên claude.ai.
+  - **Cặp ảnh 1** (40 token), mẫu Tired. Went Anyway:
+    - [A1 · David · ảnh chính · Hoodie Charcoal](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37qvpi000000ilotf4pw82)
+    - [A2 · Hanna · đang bước, cầm cà phê · Hoodie White](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37r10f000100il8oaf5pi8)
+    - Prompt có các cách giảm "vẻ AI": ánh sáng không đều, khung lệch, bối cảnh bình thường, vải nhăn, không cười tạo dáng.
+  - **[Bản mô tả 2 video](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/VIDEO_SPEC_TEST_0811.md):** mẫu áo, nam/nữ, bối cảnh, mục đích, kịch bản từng giây, cách giảm "vẻ AI", 7 tiêu chí ĐẠT, chi phí (6 giây: 420 token; 8 giây: 560). **Chưa tạo video.**
+- **Claude tự chọn:** mẫu Tired. Went Anyway cho lô thử; giờ chạy m1 (08:13); đề xuất video 6 giây.
+- **Đã ghi ra ngoài:**
+  - Lịch tự động m1.
+  - Kittl: 2 mockup tải lên, 2 ảnh tạo mới.
+  - Thị trấn:
+    - Việc `t-m1-trend-cuoinam` (mới).
+    - `q29` đã duyệt, có ghi các quyết định.
+    - `q28` chuyển sang duyệt bản mô tả video.
+    - Tiến độ 12 có link mới.
+  - GitHub: bản mô tả video.
+- **Chờ anh:**
+  1. Xem cặp ảnh 1. OK thì làm cặp 2 (A3 David mặt sau + A6 Hanna ảnh nhà buổi sáng).
+  2. Duyệt bản mô tả video, chọn 6 hay 8 giây.
+  3. Kiểm chữ in ở 2 ảnh khung đầu video (từ trước).
+
+---
+
 ## 05/11 — Nghiên cứu ảnh và video thời trang ở Mỹ + đề xuất cho David & Hanna
 
 - **Đã làm:**
