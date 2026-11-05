@@ -26,6 +26,31 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Học hook từ 2 video tham khảo + đề xuất đội agent
+
+- **Anh giao:** xem video hook để học cách làm creative giữ người xem; kiểm One Plan; xem video LinTech để xây đội agent; đề xuất bước tiếp.
+- **Đã làm:**
+  - Xem 2 video bằng cách cắt khung hình (video 1: 59 giây, 2 khung/giây; video 2: 29 giây). **Không nghe được tiếng**, chỉ đọc phụ đề.
+  - Soạn [Hook Lab](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/HOOK_LAB_0511.md):
+    - Phân tích 5 ví dụ "mở đầu mượt mà".
+    - Lọc theo luật: bỏ kiểu giả tai nạn và logo hãng khác.
+    - Công thức riêng "câu dở dang, áo nói nốt".
+    - 10 hook cho các mẫu In Motion.
+    - Bảng AI làm được tới đâu.
+  - Soạn [đề xuất đội agent](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/team/NOVDAT_AGENT_TEAM_DE_XUAT.md):
+    - 6 vai, anh là người duyệt duy nhất.
+    - Dây chuyền một chủ đề.
+- **Claude tự chọn:**
+  - Đề xuất 6 vai thay vì 19, vì plan giới hạn WIP.
+  - Hook cho 2 video test: "That hill again." và "Got passed by a dog walker."
+- **Đã ghi ra ngoài:** GitHub (2 file mới). Thị trấn: chưa ghi, chờ anh duyệt đề xuất.
+- **Chờ anh:**
+  1. Có thêm hook vào 2 bản mô tả video không (vẫn 6 giây, vẫn 420 token)?
+  2. Duyệt 6 vai; có lịch Hook Lab hằng tuần không; có thêm tab "Đội" vào Thị trấn không.
+  3. Vẫn chờ: chấm 8 ảnh, duyệt kho phong cách, duyệt bản mô tả video.
+
+---
+
 ## 05/11 — Đủ Bộ A (6 ảnh) + Bộ B phong cách 1 (flash đêm) + kho phong cách cho 2 nhân vật
 
 - **Anh chốt:**
