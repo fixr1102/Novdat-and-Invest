@@ -17,7 +17,8 @@ Cấu trúc đã chốt 03/11, cập nhật 05/11: **1 campaign Sales · 1 ad se
 | 0.4 | Tên miền đã xác minh | Business settings → Brand safety → Domains | `novdat.com` có dấu xanh |
 | 0.5 | Trang Facebook và Instagram nối với tài khoản quảng cáo | Business settings → Accounts | Có Page NOVDAT và IG NOVDAT |
 | 0.6 | Ảnh và video đã duyệt | Thị trấn, Tiến độ 11 và 12 | 11 ảnh (bản 05/11: thẻ 2.2 và 3.2 đổi sang người mẫu nam) + 2 video nếu kịp |
-| 0.7 | Campaign cũ đã tắt | Ads Manager → Campaigns | "R1_Sales_US_20-10_v2" ở trạng thái OFF |
+| 0.7 | Campaign cũ đã tắt | Ads Manager → Campaigns | "R1_Sales_US_20-10_v2" ở trạng thái OFF (**đã OFF**, ảnh của anh 05/11) |
+| 0.8 | Không đăng nhầm thay đổi cũ | Nút "Xem lại và đăng (6)" | Khi đăng, bỏ chọn 6 thay đổi cũ không liên quan |
 
 Thiếu mục nào thì dừng, báo Claude.
 

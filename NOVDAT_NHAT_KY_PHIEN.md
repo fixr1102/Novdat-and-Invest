@@ -26,6 +26,41 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Prompt dựng bản nháp campaign (Claude Code + Chrome), 5 quảng cáo, kiểm định kỳ
+
+- **Anh chốt:**
+  1. Dựng campaign bằng Claude Code + Claude in Chrome trên máy anh. Anh là người duyệt và đăng.
+  2. Chạy 5 quảng cáo (3 ảnh + 2 video) như đã chốt 03/11.
+  3. R1 đã OFF (ảnh anh gửi xác nhận).
+  4. Mục tiêu là đơn đầu tiên, làm từng bước, kiểm định kỳ rồi điều chỉnh theo số thật.
+- **Đã làm:**
+  - Viết [prompt dựng bản nháp](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/PROMPT_CLAUDE_CHROME_META_DRAFT_0811.md):
+    - Có luật cứng: agent **không bấm đăng**, không đụng campaign khác.
+    - Đủ 11 thẻ: chữ, tiêu đề, link **đúng màu, size M** (đã lấy ID biến thể từ Shopify).
+    - Có bước tắt tính năng Meta tự sửa nội dung.
+    - Bước A: anh tải 11 ảnh vào thư viện Meta trước, vì agent trình duyệt thường không mở được hộp chọn file.
+  - **Phát hiện trong ảnh của anh:** Ads Manager đang có **6 thay đổi chưa đăng**. Khi đăng campaign mới, anh nhớ bỏ chọn các thay đổi cũ.
+  - Kittl: còn 7.800 token. 2 video 8 giây tốn khoảng 560 token; tính cả làm lại thì tối đa khoảng 1.700.
+  - **Đặt 4 lần kiểm tự động** (chỉ đọc qua Adspirer, rồi báo cáo; giờ VN):
+    - 10/11 08:30: số ngày 1–2.
+    - 11/11 13:30: quy tắc dừng ngày 3, kèm số theo tuổi, giới, bang.
+    - 12/11 13:30: hết nấc 1, xét có vào nấc 2 không.
+    - 15/11 13:30: tổng kết.
+- **Số mới cần anh biết** (ảnh Ads Manager của anh): R1 có **giá mỗi click vào link $4,88**, CTR 0,63%. Con số $2,2 tôi báo trước đó là giá theo mọi loại click.
+  - Theo giá $4,88, nấc 1 ($200) chỉ được khoảng **40 click vào link**.
+  - Điều kiện vào nấc 2 (CPC ≤ $1,5) đòi quảng cáo mới phải rẻ hơn R1 rất nhiều.
+  - Mốc 100 phiên người thật trước 14/11 khó đạt chỉ bằng ads. [GIẢ THUYẾT]: quảng cáo In Motion mới có thể rẻ hơn R1.
+- **Đã ghi ra ngoài:**
+  - Thị trấn: Tiến độ 14 (prompt, lịch kiểm), Tiến độ 12 (chi phí video), việc `t-ads-build` (anh dựng).
+  - GitHub: prompt + hướng dẫn cập nhật.
+  - 4 lịch kiểm tự động trong phiên này.
+  - **Không** ghi gì lên Meta, Shopify hay Kittl.
+- **Chờ anh:**
+  1. Duyệt việc làm 2 video: tôi viết Phiếu Not Fast, gửi lại Phiếu Uphill kèm model đề xuất theo bối cảnh và chi phí token. Anh duyệt thì tôi mới tạo.
+  2. Chạy prompt, rồi tự đăng trước 07/11.
+
+---
+
 ## 05/11 — Anh chốt: ảnh quảng cáo phương án C, ngân sách phương án A
 
 - **Anh chốt:**
