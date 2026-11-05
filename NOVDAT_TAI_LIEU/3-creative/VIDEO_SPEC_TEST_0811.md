@@ -100,7 +100,10 @@ Token còn: **7.720**.
   1. Tạo **ảnh khung mở trước** (20 token, [xem](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw39d790000000il8uuqi4na)). Bối cảnh tả theo một con phố Park Slope có thật, gồm những chi tiết đời thường: thùng rác tái chế, xe đạp khoá ở lan can, vòi chữa cháy, lá trong rãnh, người dắt chó ở xa. Claude tự kiểm ảnh, thấy đạt rồi mới làm video.
   2. Video **bắt đầu từ ảnh đó** (lần 1 không có khung mở). Máy đứng yên ngang ngực, chỉ rung rất nhẹ.
   3. 2 ảnh gốc của Hanna dùng làm tham chiếu để giữ mặt; prompt yêu cầu giữ mặt, tóc, dáng suốt video.
-- **Thông số:** Seedance 2.0, 12 giây, tiếng nền phố, **420 token**. Job `cmw39f9mm000100il32c66vml`.
+- **Thông số:** Seedance 2.0, 12 giây, tiếng nền phố, **420 token**.
+- **Lần chạy:**
+  - Job `cmw39f9mm000100il32c66vml` bị lỗi: model không cho dùng ảnh khung mở cùng ảnh tham chiếu. Không trừ token.
+  - Chạy lại với ảnh khung mở làm **tham chiếu thứ nhất**: [video lần 2](https://www.kittl.com/ai-studio/video-generator?microEdit=cmw39ort6000000il9dlzxdfg) (job `cmw39ort6000000il9dlzxdfg`, 12,1 giây). Chờ anh chấm 7 tiêu chí.
 
 ## Âm thanh: công cụ và luật
 

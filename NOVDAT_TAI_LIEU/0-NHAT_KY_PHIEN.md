@@ -26,6 +26,22 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Video Hanna lần 2 (12 giây, kịch bản mới)
+
+- **Anh chốt** (sau khi xem lần 1: bối cảnh trông AI, kịch bản và chuyển động chưa đúng, mặt và dáng chưa ổn):
+  - Chiều tối, đèn đường; 12 giây.
+  - Hanna chạy tới gần → nghỉ, hơi mệt → vui vẻ ngắm phố → chạy tiếp, lướt qua máy.
+  - Chữ hook "Quick break. Not done."
+- **Đã làm:**
+  - Tạo [ảnh khung mở](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw39d790000000il8uuqi4na) theo phố Park Slope thật (20 token). Claude tự kiểm: trông thật, không có chữ lạ.
+  - Tạo [video lần 2](https://www.kittl.com/ai-studio/video-generator?microEdit=cmw39ort6000000il9dlzxdfg) (420 token).
+  - Lần chạy đầu bị lỗi kỹ thuật, không trừ token.
+  - Token còn khoảng 6.770.
+- **Đã ghi ra ngoài:** Kittl (1 ảnh, 1 video). GitHub.
+- **Chờ anh:** chấm video lần 2 theo 7 tiêu chí. Đạt thì anh ghép chữ hook; tôi làm video David.
+
+---
+
 ## 05/11 — Video Hanna (lần 1) + ảnh phong cách B2 + xếp ảnh vào thư mục nhân vật
 
 - **Anh chốt:**
