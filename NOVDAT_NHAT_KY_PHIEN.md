@@ -26,6 +26,37 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Định hướng Noel, sửa 3 quảng cáo ảnh (nam nhiều hơn nữ), hướng dẫn dựng campaign Meta
+
+- **Anh chốt:**
+  - Mùa Giáng sinh và sale cuối năm tập trung vào **Christmas sweatshirt**, kèm dòng **Hoodie**.
+  - 3 quảng cáo ảnh giữ nguyên, nhưng **thẻ nam nhiều hơn thẻ nữ** (bớt 2 thẻ nữ).
+- **Claude đề xuất** (chờ anh duyệt, Hàng đợi `q26`), phương án A:
+  - Bỏ thẻ nữ Not Fast và Uphill, vì 2 mẫu này đã có quảng cáo video riêng.
+  - Chuyển thẻ Tired sang quảng cáo 2.
+  - Kết quả: 9 thẻ = **6 nam / 3 nữ**, mỗi quảng cáo 3 thẻ (2 nam + 1 nữ), thẻ nam đứng đầu. Tiêu đề thẻ giữ nguyên. 11 thiết kế vẫn có mặt trong 5 quảng cáo.
+  - Rủi ro: nếu 2 video không kịp 08/11 thì 2 mẫu này vắng mặt.
+  - Phương án B và C ghi trong `q26`.
+- **Đã làm:** viết [hướng dẫn dựng campaign Meta](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/META_CAMPAIGN_SETUP_TEST_08-14-11.md).
+  - Gồm 7 bước và checklist cuối, theo cấu trúc anh chốt 03/11.
+  - Có bước **tắt mọi tính năng Meta tự sửa nội dung**, vì Meta có thể tự viết lại chữ thành câu khẩn cấp, sai Honest Commerce.
+  - Có bước **đăng ở trạng thái tắt**, anh tự bật ngày 08/11.
+- **Ghi chú của Claude** (không phải quyết định): store chưa có đơn nào nên tối ưu theo Purchase có thể học chậm. Đổi sang tối ưu Add to cart là loại C, anh quyết.
+- **Đã ghi ra ngoài:**
+  - Thị trấn:
+    - Tiến độ 11: thêm đề xuất. Bảng đã duyệt 03/11 giữ nguyên.
+    - Hàng đợi `q26-ad-cards-male`: pending.
+    - Tiến độ 30 (Noel): ghi định hướng của anh.
+    - Tiến độ 14: thêm link hướng dẫn.
+  - GitHub: file hướng dẫn.
+  - **Không** đụng Meta hay Shopify.
+- **Chờ anh:**
+  1. Chọn phương án A, B hoặc C trong `q26`.
+  2. Gửi Noel brief 22/10 và danh sách thiết kế Noel đã có, để Claude đề xuất đợt 1 Christmas sweatshirt/hoodie.
+  3. Ai dựng campaign: anh tự làm theo hướng dẫn, hay để Claude dựng qua Adspirer (việc `t-ads-build`)? Chọn cách thứ hai thì Claude cần anh đồng ý rõ ràng trước khi ghi vào tài khoản quảng cáo.
+
+---
+
 ## 05/11 — Pinterest 18–34: thêm 3 file + luật chọn model AI theo bối cảnh
 
 - **Anh chốt:** không gán cố định Hanna hay David cho sản phẩm. Mỗi ảnh chọn model theo bối cảnh cho hợp. Trước khi tạo, Claude gửi danh sách "ảnh nào, bối cảnh nào, model nào, vì sao" để anh chốt.
