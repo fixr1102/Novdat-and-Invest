@@ -16,12 +16,34 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 | # | Việc | Loại | Hạn gợi ý | Cách làm |
 |---|---|---|---|---|
 | 1 | Kiểm theme DEV theo checklist 9 mục (mục "05/11 — Trả lời 7 câu" bên dưới). Đúng hết thì **anh** bấm Publish | C | trước 08/11 | Admin → Online Store → Themes → "DEV - Copy fixes 05/11 (Q1-Q3)" → Publish |
-| 2 | Bấm mở mạng cloud cho Trend Radar (anh đã duyệt, nhưng phải tự bấm trong cài đặt môi trường) | — | trước 08/11 | Xem mục "05/11 — Trả lời 7 câu", câu 5 |
+| 2 | Đọc [báo cáo Trend Radar 05/11](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-trend-radar-3-ngach.md). Có cho Claude chạy lại Noel khoảng 20/11 không? | — | 20/11 | Trả lời Claude |
 | 3 | Tuỳ chọn, không bắt buộc: ghi $4.99 và ngưỡng $75 vào trang Shipping policy | B | khi rảnh | Admin → Settings → Policies → Shipping policy |
 | 4 | Cấu hình Xưởng (Thị trấn, `config/studio`) còn trỏ workspace Kittl cũ. Có cho Claude sửa sang "Dat's Team" không? | — | trước khi làm creative | Trả lời Claude |
 | 5 | Checklist 10 bước của audit (ảnh 1, 2, 4, 5, 7) | — | khi rảnh | [Báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md) |
 
 **Đã chốt (không còn chờ):** giữ "Rào Honest Commerce và IP" (05/11); gỡ server MCP `kittl` local (05/11).
+
+---
+
+## 05/11 — Chạy Trend Radar lần đầu (Running · Pickleball · Noel)
+
+- **Đã làm:**
+  - Kiểm mạng sau khi anh mở: Arctic Shift (kho dữ liệu Reddit), YouTube và các trang tìm web vào được. Riêng reddit.com trả 403 (Reddit chặn IP máy chủ), engine tự lấy qua Arctic Shift.
+  - Chạy lệnh chính cho 3 ngách, cộng 3 lượt tìm web. Báo cáo: [Trend Radar 05/11](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-trend-radar-3-ngach.md).
+  - **Running:** 15 thread. Gợi ý §7: Vừa cho chủ đề "chạy mùa đông, chạy dù mệt"; Thấp cho nhu cầu áo in.
+  - **Pickleball:** 9 thread. Gợi ý: Thấp (không ai bàn áo). Chủ đề đùa có thể tự viết: điểm trình, nghiện mua vợt.
+  - **Noel:** 0 cụm đạt ngưỡng. Chưa đủ bằng chứng; đề xuất chạy lại khoảng 20/11.
+  - **Giới hạn:**
+    - YouTube **bị chặn** trên cloud (đòi đăng nhập; cookie bị cấm nên không lấy).
+    - Mọi báo cáo ghi "chưa lọc được tại Mỹ".
+    - Mức §7 chỉ là gợi ý; điểm chính thức do người chấm theo Hiến chương.
+- **Claude tự chọn:** lưu báo cáo vào thư mục `trend-radar/` trong repo GitHub riêng tư, vì container cloud sẽ bị xoá. Không đăng công khai ở đâu. Chọn topic phụ cho từng ngách theo file lệnh mẫu.
+- **Đã ghi ra ngoài:**
+  - GitHub: báo cáo + 3 file gốc của engine (`trend-radar/raw/`, có tên tài khoản Reddit; chỉ dùng nội bộ).
+  - Thị trấn: Tiến độ 41 chuyển sang xong, kèm tóm tắt và link.
+  - Không ghi gì lên Shopify.
+- **Về đề nghị cho Claude dùng Chrome local:** chưa cần. Để có YouTube, cách gọn hơn là anh chạy chính lệnh `/novdat-trend:last30days …` trong Claude Code trên máy anh. IP nhà thường không bị YouTube chặn và không cần cookie. Nếu vẫn muốn dùng Chrome, nên tạo một hồ sơ Chrome **mới, không đăng nhập**, để Claude không chạm vào phiên đăng nhập của anh (đúng luật không đọc cookie).
+- **Chờ anh quyết:** mục 2 trong bảng gộp.
 
 ---
 
