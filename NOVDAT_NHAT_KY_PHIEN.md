@@ -26,6 +26,26 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Pinterest 18–34: thêm 3 file + luật chọn model AI theo bối cảnh
+
+- **Anh chốt:** không gán cố định Hanna hay David cho sản phẩm. Mỗi ảnh chọn model theo bối cảnh cho hợp. Trước khi tạo, Claude gửi danh sách "ảnh nào, bối cảnh nào, model nào, vì sao" để anh chốt.
+- **Đã làm:**
+  - Lưu 3 CSV: gifts for runners, christmas sweatshirt, ugly christmas sweater.
+  - Thêm mục 6 vào [báo cáo Pinterest 18–34](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-pinterest-18-34.md) và cập nhật bảng §7.
+- **Kết quả chính** (Mỹ, 18–34; mức §7 chỉ là gợi ý):
+  - **Gifts for runners:** tăng 90% trong tháng, đang ở đỉnh, ngang năm ngoái. Đây là mùa quà bình thường.
+  - **Ugly christmas sweater(s):** tăng 300% trong tháng, 100% trong tuần. Cụm "ideas" tăng 100% so với năm ngoái; party, funny, DIY đều tăng.
+  - **Christmas sweatshirt:** tăng 200% trong tháng nhưng giảm 80% so với năm ngoái ([CẦN KIỂM] khoảng 20/11). Riêng "outfit" tăng 100% so với năm ngoái.
+  - Gợi ý §7: Running **Vừa** (nghiêng lên với góc quà), Pickleball **Thấp**, Noel **Cao** về đà mùa vụ.
+- **Claude tự chọn:** ghi chú vào việc `t-gift-pages` (trang quà, hạn 12/11) rằng dữ liệu ủng hộ góc "quà cho người chạy".
+- **Đã ghi ra ngoài:**
+  - Thị trấn: Tiến độ 42 lên 65%; việc `t-kittl-new` (luật model mới); việc `t-gift-pages` (ghi chú dữ liệu).
+  - GitHub: báo cáo và 3 CSV.
+  - Không đụng Shopify, Meta hay Kittl.
+- **Chờ anh quyết:** dòng Noel có gọi là "ugly Christmas sweatshirt" (đúng chất liệu in trên sweatshirt) thay cho "sweater" không? Loại B.
+
+---
+
 ## 05/11 — Phân tích Pinterest Trends 18–34 (5 CSV anh xuất) + câu hỏi về TikTok
 
 - **Đã làm:**
