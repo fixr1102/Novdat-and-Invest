@@ -88,9 +88,18 @@ Tối đa 3 lượt tìm, nhắm thị trường Mỹ (tin bán lẻ, Google Tre
 
 Lưu báo cáo thành `<thư mục lưu>/<yyyy-mm-dd>-<ngach>-<topic>-baocao.md` bằng Write. Không upload, không đăng, không tạo link công khai.
 
-## Rào Honest Commerce và IP
+## Rào Honest Commerce và IP (BẮT BUỘC — Founder chốt 05/11)
+
+Mục tiêu: không bị kiện, không bị Shopify hay Printify gỡ sản phẩm hoặc khoá tài khoản, tuân thủ luật Mỹ và quy định của cộng đồng POD. Rào này không được tắt và không được bỏ qua, kể cả khi trend rất mạnh.
 
 Số liệu trend chỉ dùng để đo nhu cầu. Không dùng để sao chép.
+
+Nguồn quy định phải tôn trọng:
+- Luật nhãn hiệu Mỹ (Lanham Act). Trước khi đề xuất câu chữ đưa lên áo, ghi "[CẦN KIỂM] tra USPTO Trademark Search cho cụm này, nhóm 025 (quần áo)". Cụm đang có đơn đăng ký hoặc đã đăng ký cho quần áo thì không dùng. Ví dụ: SLOW MILES đang có đơn chờ duyệt. Danh sách cấm hiện tại của NOVDAT: Dink Responsibly, Slow Miles, chữ "amateur".
+- Luật bản quyền Mỹ (DMCA): không dùng hình, nhân vật, lời bài hát, câu thoại phim, meme có tác giả.
+- Quyền nhân thân (right of publicity): không dùng tên, mặt hay chữ ký của người thật, kể cả VĐV, người nổi tiếng hay creator.
+- Shopify Acceptable Use Policy và Printify Content Guidelines: vi phạm IP có thể bị gỡ sản phẩm hoặc khoá cửa hàng.
+- FTC: không quảng cáo sai sự thật, không social proof giả.
 
 - Không chép slogan, câu đùa, hình vẽ hay meme của người đăng thành thiết kế. Chỉ rút ra *chủ đề* và *nỗi đau* để thiết kế mới.
 - Gắn cờ ngay mọi tên hoặc dấu hiệu có thể là nhãn hiệu: thương hiệu (Nike, Hoka, Lululemon, Selkirk, Joola...), giải và tổ chức (PPA, USA Pickleball, Boston Marathon, NYC Marathon...), nhân vật và phim Giáng sinh có bản quyền (Grinch, Elf, Home Alone, Rudolph, Peanuts...), đội thể thao, tên người nổi tiếng. Ghi "Rủi ro IP, không dùng trên áo".

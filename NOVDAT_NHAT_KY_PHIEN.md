@@ -13,15 +13,116 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ## Quyết định đang chờ anh (gộp)
 
-| # | Việc | Loại | Hạn gợi ý | Ở đâu |
+| # | Việc | Loại | Hạn gợi ý | Cách làm |
 |---|---|---|---|---|
-| 1 | Xem trước theme DEV "DEV - Copy fixes 05/11 (Q1-Q3)", nếu ổn thì **anh** bấm Publish | C | trước 08/11 | Thị trấn: Tiến độ 24, Hàng đợi Q1–Q3 |
-| 2 | Kiểm dòng phí ship trong giỏ (Q3) bằng thiết bị test riêng | B | trước khi publish | Tiến độ 24 |
-| 3 | Thêm phí $4.99 và ngưỡng $75 vào Shipping policy | B | trước 08/11 | Admin → Policies |
-| 4 | Làm checklist 10 bước trên điện thoại, gửi ảnh 1, 2, 4, 5, 7 | — | khi rảnh | Báo cáo audit, mục 6 |
-| 5 | Mở mạng cloud cho Reddit, YouTube và các trang tìm web nếu muốn chạy `/novdat-trend:last30days` trên cloud | — | khi cần | README.md |
-| 6 | "Rào Honest Commerce và IP" trong plugin last30days: Claude tự hiểu là **giữ lại** (anh liệt kê nó trong mục loại bỏ). Giữ hay bỏ? | B | khi rảnh | `plugins/novdat-trend/…/SKILL.md` |
-| 7 | Gỡ server MCP `kittl` cấu hình local đang lỗi kết nối, nếu không cần (`claude mcp remove kittl`) | — | khi rảnh | máy cloud này |
+| 1 | Kiểm theme DEV theo checklist 9 mục (mục "05/11 — Trả lời 7 câu" bên dưới). Đúng hết thì **anh** bấm Publish | C | trước 08/11 | Admin → Online Store → Themes → "DEV - Copy fixes 05/11 (Q1-Q3)" → Publish |
+| 2 | Bấm mở mạng cloud cho Trend Radar (anh đã duyệt, nhưng phải tự bấm trong cài đặt môi trường) | — | trước 08/11 | Xem mục "05/11 — Trả lời 7 câu", câu 5 |
+| 3 | Tuỳ chọn, không bắt buộc: ghi $4.99 và ngưỡng $75 vào trang Shipping policy | B | khi rảnh | Admin → Settings → Policies → Shipping policy |
+| 4 | Cấu hình Xưởng (Thị trấn, `config/studio`) còn trỏ workspace Kittl cũ. Có cho Claude sửa sang "Dat's Team" không? | — | trước khi làm creative | Trả lời Claude |
+| 5 | Checklist 10 bước của audit (ảnh 1, 2, 4, 5, 7) | — | khi rảnh | [Báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md) |
+
+**Đã chốt (không còn chờ):** giữ "Rào Honest Commerce và IP" (05/11); gỡ server MCP `kittl` local (05/11).
+
+---
+
+## 05/11 — Trả lời 7 câu của anh + cập nhật Thị trấn
+
+### Câu 1–2. Theme DEV đã sửa gì và kiểm thế nào
+
+Theme: **DEV - Copy fixes 05/11 (Q1-Q3)** (id 166940704866), nhân bản từ LIVE "LIVE - Working 17/10". **LIVE chưa bị đụng.**
+
+**Link xem trước** (mở trên điện thoại, không cần đăng nhập):
+- [DEV: Tired. Went Anyway Hoodie](https://novdat.com/products/tired-went-anyway-hoodie?preview_theme_id=166940704866). Để so với bản đang chạy: [LIVE: cùng sản phẩm](https://novdat.com/products/tired-went-anyway-hoodie)
+- [DEV: Cold Miles Tee](https://novdat.com/products/cold-miles-t-shirt?preview_theme_id=166940704866)
+- [DEV: Cold Miles Sweatshirt](https://novdat.com/products/cold-miles-sweatshirt?preview_theme_id=166940704866)
+- [DEV: giỏ hàng](https://novdat.com/cart?preview_theme_id=166940704866)
+
+Nếu link mở ra bản LIVE (không thấy thay đổi): vào Admin → Online Store → Themes → dòng "DEV - Copy fixes 05/11 (Q1-Q3)" → **Preview**.
+
+| # | Vị trí | Trước (LIVE) | Sau (DEV) | Lý do |
+|---|---|---|---|---|
+| 1 | PDP Hoodie/Sweatshirt → Fabric & Care | "Garment-dyed cotton-blend fleece for a soft, lived-in feel from day one." | "Midweight 50/50 cotton-poly fleece. Soft, warm, and easy to wear every day." | 97/97 Hoodie/Sweatshirt active là 50/50, không garment-dyed |
+| 2 | PDP Tee → Fabric & Care | "…the heavyweight, garment-dyed, 100% ring-spun cotton tee that's considered the gold standard in the industry. Soft from day one, preshrunk, and built to get better with every wear." | "Printed on Comfort Colors 1717: heavyweight, garment-dyed, 100% ring-spun cotton. Soft from day one and preshrunk." | "Gold standard" là tuyên bố không kiểm được |
+| 3 | PDP → Size Chart | S M L XL **2XL** | S M L XL | Không sản phẩm active nào bán 2XL |
+| 4 | PDP → khối tin cậy dưới nút mua, và khối 4 biểu tượng cuối trang | "Free shipping over $75" | "Free US shipping on $75+" | Admin: đơn đúng $75.00 cũng được free |
+| 5 | PDP → nút mua | "Buy Now" là nút màu cam đặc, ngang hàng "Add to cart" | "Buy Now" là link chữ gạch chân | Chỉ một nút chính |
+| 6 | Giỏ (`/cart` và giỏ trượt), dưới dòng thuế | (không có) | "Shipping: flat $4.99 under $75 · Free on US orders $75+ (after discounts)." | Khách thấy phí ship trước checkout |
+
+File đã sửa trên DEV: `templates/product.json` (mục 1–4), `blocks/buy-now.liquid` (5), `snippets/tax-info.liquid` (6).
+
+Claude đã kiểm: mục 1–4 hiện đúng trên bản xem trước; CSS mục 5 có trong stylesheet DEV. **Mục 6 chưa xem được**, vì cần giỏ có hàng.
+
+**Checklist kiểm DEV (khoảng 10 phút, trên điện thoại):**
+- [ ] 1. Mở link DEV Tired. Went Anyway Hoodie → Fabric & Care ghi "Midweight 50/50 cotton-poly fleece…".
+- [ ] 2. Size Chart chỉ có S M L XL.
+- [ ] 3. Dưới nút mua ghi "FREE US SHIPPING ON $75+".
+- [ ] 4. "Add to cart" là nút đậm duy nhất; "Buy Now" là chữ gạch chân, bấm được, không bị che. **Chụp màn hình gửi Claude.**
+- [ ] 5. Cuộn cuối trang: khối 4 biểu tượng ghi "Free US shipping on $75+".
+- [ ] 6. Mở link DEV Cold Miles Tee → Fabric & Care không còn "gold standard"; Size Chart S–XL.
+- [ ] 7. Mở link DEV Cold Miles Sweatshirt → Fabric & Care ghi 50/50 cotton-poly.
+- [ ] 8. Dùng **thiết bị test**, không dùng điện thoại đo KPI: thêm 1 áo vào giỏ trên DEV → dưới tổng tiền có dòng "Shipping: flat $4.99…", cả ở giỏ trượt lẫn `/cart`. Chụp, rồi xoá giỏ.
+- [ ] 9. Giá và ảnh trên DEV giống LIVE; ngoài 6 điểm trên không có gì khác.
+
+Đủ 9/9 thì anh tự Publish. Sai mục nào thì nhắn Claude số mục. Hoàn tác: publish lại "LIVE - Working 17/10".
+
+### Câu 3. Phí ship: cần cập nhật gì?
+
+**Không cần sửa gì trong Admin.** Ảnh anh gửi khớp dữ liệu Claude đọc: Standard $4.99 cho $0–74.99, Free từ $75.00, 4–8 business days, chỉ ship US. Dòng giỏ hàng ở mục 6 dùng đúng các số này.
+
+Việc Claude đề xuất trước đây chỉ là **sửa chữ trên trang [Shipping policy](https://novdat.com/policies/shipping-policy)**. Trang đó nói thời gian giao nhưng không nhắc $4.99 và ngưỡng $75. Việc này **không bắt buộc**: PDP, giỏ và checkout đều đã hiện phí. Lợi ích nhỏ: khách đọc chính sách thấy cùng số. Đã hạ xuống "tuỳ chọn" (mục 3 bảng trên).
+
+### Câu 4. Kittl và 2 model AI
+
+- Đã gỡ server MCP `kittl` local bị lỗi. Kittl dùng qua connector claude.ai, tài khoản "Dat's Team".
+- Claude đã kiểm thư mục: **Hanna - Character** (2 ảnh), **David - Character** (6 ảnh), "In Motion - Mockup Hoodie" (trống).
+- **Luật mới, Claude hiểu và sẽ theo:** trước khi tạo ảnh quảng cáo hay creative có Hanna hoặc David, Claude đề xuất ghép sản phẩm nào với model nào, rồi **hỏi anh chốt** mới tạo. Ảnh model luôn ghi rõ là AI.
+- Còn chờ anh: cấu hình Xưởng trên Thị trấn vẫn trỏ workspace Kittl cũ (mục 4 bảng trên).
+
+### Câu 5. Mở mạng cloud
+
+Claude không tự mở được; anh cần bấm. Claude kiểm lúc 06:00: vẫn bị chặn.
+
+Cách mở: trên claude.ai/code, menu môi trường ở thanh tiêu đề phiên → **Edit** → **Network access** → **Allowed domains**, thêm từng dòng:
+
+```
+www.reddit.com
+reddit.com
+arctic-shift.photon-reddit.com
+www.youtube.com
+youtube.com
+*.googlevideo.com
+html.duckduckgo.com
+www.startpage.com
+```
+
+Bấm xong báo Claude để chạy thử `/novdat-trend:last30days winter running gear`.
+
+### Câu 6. Checklist
+
+- Checklist kiểm DEV: 9 mục ở câu 1–2.
+- Checklist audit 10 bước: [báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md).
+
+### Câu 7. Rào Honest Commerce và IP: bắt buộc
+
+Đã ghi vào [skill Trend Radar](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/plugins/novdat-trend/skills/last30days/SKILL.md) là bắt buộc, không tắt được. Áp dụng:
+- Luật nhãn hiệu Mỹ: tra USPTO nhóm 025 (quần áo) trước khi dùng câu chữ.
+- Bản quyền (DMCA).
+- Quyền nhân thân: không dùng tên hay mặt người thật.
+- Shopify Acceptable Use Policy và Printify Content Guidelines.
+- FTC: không quảng cáo sai, không social proof giả.
+- Danh sách không dùng: Dink Responsibly, Slow Miles, chữ "amateur".
+
+### Đã ghi ra ngoài
+
+- **Thị trấn:**
+  - Tiến độ 24: thêm bảng trước/sau, checklist 9 mục, 5 link.
+  - Tiến độ 13: Kittl xong, 2 model, luật hỏi trước.
+  - Việc `t-kittl-new`: đánh dấu xong (anh làm), ghi luật mới.
+  - Tiến độ 41 (mới): Trend Radar, rào IP bắt buộc, chờ anh mở mạng.
+  - Hàng đợi Q3: ghi rõ phí Admin đã đúng; sửa Shipping policy là tuỳ chọn.
+- **GitHub:** skill Trend Radar (rào IP bắt buộc) và file nhật ký này.
+- **Máy cloud:** gỡ cấu hình MCP `kittl` local.
+- **Không** ghi gì lên Shopify. **Không** publish.
 
 ---
 
