@@ -26,6 +26,24 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Ngân sách test: $315/7 ngày hay $200/4 ngày?
+
+- **Đã làm:** đọc kết quả Meta 60 ngày qua Adspirer (chỉ đọc, 1 lượt; đã dùng 5/15 lượt tháng này).
+  - R1_Sales_US (20–22/10): chi $40, 18 click, khoảng $2,2 mỗi click.
+  - HW26: chi $217, khoảng 930 click rẻ, nhưng nhiều khả năng là bot hoặc Audience Network.
+- **Đánh giá** [GIẢ THUYẾT, theo giá R1]:
+  - $200 đủ để biết **có người thật thêm giỏ không**.
+  - $200 **không đủ** để chọn mẫu thắng trong 5 quảng cáo.
+  - $315 vào khoảng 150 click.
+- **Claude đề xuất phương án A, chi 2 nấc:**
+  - Nấc 1: $200 trong 4 ngày (08–11/11). Ngày 3 mà 0 lượt thêm giỏ thì dừng.
+  - Nấc 2: chỉ khi có tín hiệu thì chi tối đa thêm $115 cho 1–2 quảng cáo tốt nhất (12–14/11).
+- **[CẦN KIỂM]:** campaign R1 vẫn hiện ACTIVE. Nên tắt trước 08/11.
+- **Đã ghi ra ngoài:** Thị trấn, Hàng đợi `q27-test-budget` (pending). Không đụng Meta.
+- **Chờ anh quyết (loại C):** chọn A, B ($200/4 ngày rồi dừng) hay C (giữ $315/7 ngày).
+
+---
+
 ## 05/11 — Định hướng Noel, sửa 3 quảng cáo ảnh (nam nhiều hơn nữ), hướng dẫn dựng campaign Meta
 
 - **Anh chốt:**
