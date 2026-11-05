@@ -26,6 +26,24 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Buy Now: màu và font nổi bật hơn + chấm video Hanna lần 2
+
+- **Anh chốt:**
+  - Buy Now bấm được, ổn. Cần nổi bật hơn: font gây ấn tượng và hợp NOVDAT, màu nút tương phản với chữ, vẫn giữ bố cục trang sản phẩm.
+  - Video Hanna lần 2 (file anh gửi) chưa đủ tốt để làm quảng cáo.
+- **Đã làm:**
+  - Sửa `blocks/buy-now.liquid` trên theme **DEV** (LIVE không bị đụng): Buy Now màu **đất nung #B5532F**, chữ kem, font **Playfair Display đậm 20px** (cùng font tiêu đề của NOVDAT), kèm mũi tên →. Cùng rộng, cao (52px) và bo góc 10px với Add to cart. Tương phản chữ/nền 4,56:1. Lần chỉnh đầu mũi tên bị rớt dòng, đã sửa. Ảnh mới ở [thư mục này](https://github.com/fixr1102/Novdat-and-Invest/tree/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/dev-theme-buy-now-0511).
+  - Chấm [video Hanna lần 2](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/VIDEO_SPEC_TEST_0811.md): **4/7 đạt**. Không đạt tiêu chí 3 (tay chống hông đứng yên 7 giây, không có vẻ mệt) và 5 (phố lung linh, đối xứng, máy đứng im); tiêu chí 2 một phần (giây 3–4,5 nhìn thẳng vào máy, miệng mở); giây 11–12 chữ in méo khi ra khỏi khung.
+  - Nêu 3 phương án tiếp (A/B/C) trong file đó.
+  - Cập nhật Thị trấn: Tiến độ 24 (mục 5 và mục 4 checklist), Tiến độ 12.
+- **Claude tự chọn:**
+  - Màu đất nung thay cho cam sáng của theme gốc (#C2603D, tương phản chỉ 3,85:1) để chữ kem đọc rõ hơn.
+  - Add to cart giữ nguyên nút tối; Buy Now là nút màu thứ hai. Anh đã chọn làm Buy Now nổi bật.
+- **Đã ghi ra ngoài:** Shopify: 1 file trên theme DEV (3 lần ghi). Thị trấn: `p24`, `p12`. GitHub.
+- **Chờ anh:**
+  1. Xem lại DEV trên điện thoại, bấm thử Buy Now. Đúng ý thì **anh** Publish.
+  2. Chọn phương án video: A (làm lần 3, ban ngày, 8 giây, khoảng 300 token), B (video không người) hoặc C (test 08/11 chạy 3 ảnh, video thêm sau). Claude đề xuất C + một lần A.
+
 ## 05/11 — Sửa nút Buy Now trên theme DEV + kế hoạch edit video Hanna
 
 - **Anh chốt:**

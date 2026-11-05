@@ -105,6 +105,37 @@ Token còn: **7.720**.
   - Job `cmw39f9mm000100il32c66vml` bị lỗi: model không cho dùng ảnh khung mở cùng ảnh tham chiếu. Không trừ token.
   - Chạy lại với ảnh khung mở làm **tham chiếu thứ nhất**: [video lần 2](https://www.kittl.com/ai-studio/video-generator?microEdit=cmw39ort6000000il9dlzxdfg) (job `cmw39ort6000000il9dlzxdfg`, 12,1 giây). Chờ anh chấm 7 tiêu chí.
 
+## Chấm video Hanna lần 2 (Claude đọc khung hình, 05/11)
+
+File anh gửi: 12,0 giây, 720×1280, 24 khung/giây, chưa có chữ hook và nhạc. Tôi cắt 2 khung/giây để xem. **Tôi không nghe được tiếng** (mức tiếng trung bình rất nhỏ, -37 dB).
+
+| # | Tiêu chí | Kết quả | Chi tiết |
+|---|---|---|---|
+| 1 | Chữ in đúng 100% ≥ 1,5 giây | **Đạt, trừ cuối video** | Giây 1,5–10,5: "NOT FAST." đỏ và "STILL OUT HERE." đen đọc đúng. Giây 11–12 khi chạy ra khỏi khung: chữ cong, "NOT" vỡ → phải cắt bỏ đoạn này |
+| 2 | Mặt giữ đúng | **Đạt một phần** | Mặt nhất quán cả video. Nhưng giây 3–4,5 Hanna **nhìn thẳng vào máy và miệng mở như đang nói**, trái yêu cầu "không nhìn ống kính" |
+| 3 | Dáng tự nhiên | **Không đạt** | Chạy giây 0–2,5 khá tự nhiên. Sau đó **tay chống hông gần như đứng yên 7 giây**, xoay cổ như tạo dáng. Không có dấu hiệu "hơi mệt" (không cúi người, không thở). Chạy tiếp ở giây 10,5 hơi đột ngột |
+| 4 | Áo giữ đúng | **Đạt** | Màu trắng, chữ in, logo tay áo trái đều đúng |
+| 5 | Không "vẻ AI" | **Không đạt** | Phố quá lung linh: dây đèn phủ khắp cây, cửa sổ vàng đều nhau, trời xanh đậm như phim. Bố cục đối xứng tuyệt đối, máy đứng im hoàn toàn, da mịn |
+| 6 | 3 giây đầu có chuyển động | **Đạt** | |
+| 7 | Nền không chữ lạ | **Đạt** | Không thấy chữ trong nền |
+
+**Kết luận:** 4/7 đạt, **không đạt tiêu chí 3 và 5**, tiêu chí 2 một phần. Khớp với đánh giá của anh: chưa đủ tốt để làm quảng cáo.
+
+**Gốc của lỗi (Claude tự nhận định):**
+1. Tôi tả bối cảnh "đèn đường vừa bật" nên AI dựng cảnh phố đêm lung linh. Cảnh đời thường nên là ban ngày, ánh sáng phẳng.
+2. Kịch bản "dừng nghỉ, vui vẻ" bị AI hiểu thành đứng tạo dáng 7 giây. Cần hành động nhỏ, cụ thể (cúi chống tay lên gối, thở ra, đứng thẳng) thay vì mô tả cảm xúc.
+3. Ảnh khung mở đối xứng nên video giữ nguyên sự đối xứng.
+
+**Phương án tiếp (anh chọn):**
+
+| | Làm gì | Token | Rủi ro |
+|---|---|---|---|
+| **A** | Làm lần 3, **công thức khác**: ban ngày, trời xám sáng, phố ít đèn; khung mở lệch, máy hơi rung; 8 giây; Hanna cúi chống tay lên gối rồi đứng dậy nhìn quanh, miệng khép, không nhìn máy; cắt trước khi ra khỏi khung | ~300 (ảnh 20 + video 280) | Vẫn có thể lỗi tương tự. Đây là lần thứ 3, vượt quy tắc "2 lần không đạt thì dừng" ở dưới |
+| **B** | Video **không người** từ mockup thật (áo treo, máy lướt, chữ đúng 100%) | gần 0 | Ít hấp dẫn hơn, nhưng gần như không lỗi |
+| **C** | **Không chờ video**: chạy test 08/11 với 3 quảng cáo ảnh; video thêm vào khi đạt | 0 | Mất vài ngày dữ liệu video |
+
+**Claude đề xuất C cho test 08/11, cộng A một lần nữa; nếu A không đạt thì dừng video có người và dùng B.** Quyết định là của anh.
+
 ## Kế hoạch edit Video Hanna (anh ghép bằng CapCut, [ĐỀ XUẤT])
 
 Anh nhận xét video lần 2 "ổn hơn" và cần edit thêm để hấp dẫn hơn. Dưới đây là kế hoạch edit theo từng giây. Nguyên tắc: **tắt tiếng vẫn hiểu**, chữ ngắn, chữ in trên áo không bị che.
