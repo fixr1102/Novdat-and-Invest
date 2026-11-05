@@ -26,6 +26,22 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Khảo sát Kittl cho 11 thẻ ảnh quảng cáo + giao nhóm agent Creative Trend Lab
+
+- **Anh giao:** kiểm tính năng Kittl (template, mockup, video UGC, quảng cáo) hỗ trợ làm 3 bộ quảng cáo ảnh (11 thẻ); xác nhận nơi chứa design; giao nhóm agent nghiên cứu phong cách creative ảnh/video hợp xu hướng; tư vấn cách dùng Kittl hiệu quả nhất. Hai video quảng cáo tạo vào 06/11 và 07/11.
+- **Đã làm** (chỉ đọc, **0 token**):
+  - Khảo sát 126 workflow Kittl, Brand Kit NOVDAT, 201 mockup hoodie, 24 model video. Viết [bản khảo sát + khuyến nghị](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/KITTL_TINH_NANG_VA_CACH_DUNG_0511.md).
+  - Kiểm nơi chứa design: ảnh Front/Flat Lay/On Model từng màu có trên Shopify (mỗi sản phẩm 16 ảnh); **file in gốc chưa thấy**; thư mục Kittl "In Motion - Mockup Hoodie" và "Running - Bộ 1" đang trống.
+  - Giao [nhóm agent "Creative Trend Lab"](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/4-doi-agent/NOVDAT_AGENT_TEAM_DE_XUAT.md) một lần chạy lúc 12:20 UTC 05/11 (19:20 giờ VN): tìm xu hướng creative thời trang trên Meta/Pinterest 2026, chính sách AI của Meta, công nghệ giữ chữ in và mặt nhân vật, ánh xạ sang workflow Kittl; ghi báo cáo, 1 thẻ Hàng đợi, 1 mục nhật ký.
+- **Claude tự chọn:**
+  - Chỉ đọc danh mục, chưa chạy thử workflow nào để không tốn token khi anh chưa duyệt.
+  - Agent không dùng được Kittl (lịch tự động không mang connector), nên việc chạy thử trên Kittl vẫn do phiên này làm.
+  - Số chi phí lấy từ API (20 token ảnh, 80 token video UGC); giao diện của anh hiện số khác (40, 12), tôi ghi để anh ưu tiên số trên giao diện.
+- **Đã ghi ra ngoài:** GitHub (bản khảo sát, mục lục). Thị trấn: thẻ `q31-kittl-plan`. Lịch: 1 lần chạy Creative Trend Lab.
+- **Chờ anh:** duyệt thử 4 mẫu ảnh + 1 video UGC (~180 token); cho biết file in gốc ở đâu; giữ hay bỏ ảnh flash B1.
+
+---
+
 ## 05/11 — Buy Now: màu và font nổi bật hơn + chấm video Hanna lần 2
 
 - **Anh chốt:**
