@@ -1,0 +1,10 @@
+{
+  "name": "novdat-trend",
+  "version": "1.0.0",
+  "description": "NOVDAT Trend Radar: so tuong tac that 30 ngay (Reddit, YouTube) cho tieu chi 'nhu cau that ngoai store' (Hien chuong 7). Ban thu gon cua last30days: khong cookie, khong ScrapeCreators, khong dang cong khai.",
+  "author": {
+    "name": "NOVDAT"
+  },
+  "license": "MIT",
+  "keywords": ["novdat", "trend-radar", "reddit", "youtube", "pod", "last30days"]
+}

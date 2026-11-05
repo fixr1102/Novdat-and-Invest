@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "novdat": {
+      "source": {
+        "source": "directory",
+        "path": "/home/user/Novdat-and-Invest"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "novdat-trend@novdat": true
+  }
+}

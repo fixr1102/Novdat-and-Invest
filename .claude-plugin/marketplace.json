@@ -1,0 +1,18 @@
+{
+  "name": "novdat",
+  "owner": {
+    "name": "NOVDAT"
+  },
+  "metadata": {
+    "description": "Plugin noi bo NOVDAT."
+  },
+  "plugins": [
+    {
+      "name": "novdat-trend",
+      "description": "Trend Radar: so tuong tac that 30 ngay tu Reddit va YouTube cho tieu chi nhu cau that ngoai store (Hien chuong 7).",
+      "version": "1.0.0",
+      "source": "./plugins/novdat-trend",
+      "category": "productivity"
+    }
+  ]
+}
