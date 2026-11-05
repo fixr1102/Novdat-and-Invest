@@ -79,6 +79,22 @@ Anh đã tạo Brand Kit **NOVDAT** (đủ logo, bảng màu #2A1F1A, #F0E1D2, #
    - Không để AI vẽ chữ quảng cáo; chữ thêm khi đăng.
 4. **Tiến độ gợi ý:** 06/11 thử mẫu ảnh + video thử; chốt phong cách; 07/11 làm 11 thẻ + video 2 (David); anh duyệt trước khi đăng.
 
+## 7b. Kết quả chạy thử 4 mẫu ảnh (05/11, Founder duyệt)
+
+Sản phẩm thử: *Tired. Went Anyway.* Hoodie **Charcoal**, ảnh gốc là ảnh **Front** từ Shopify, David làm avatar tuỳ chỉnh, bật Brand Kit NOVDAT. Ảnh xem trước chỉ 384 px, nên các nhận xét về chữ in là **[CẦN KIỂM]** trên bản gốc.
+
+| Mẫu | Ảnh | Nhận xét của Claude |
+|---|---|---|
+| **T1** Styled model photoshoot (Mid-stride, Minimal studio) | [xem](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3ik5x700mw0iri5i76nr4j) | Nền studio sáng, trông như catalog. **Chữ in có vẻ bị méo** ("WENT ANYWAY." đọc như "WENT ANFWAL" ở bản xem trước). Quần dài, không hợp "người chạy". **Loại.** |
+| **T2a** Product listing, Model Front (Directional light) | [xem](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3ikgrz00jt0ips6ij5qqxc) | **Tốt nhất trong workflow.** Ánh sáng nghiêng ấm, chữ in đọc đúng, logo tay áo trái thấy rõ, vải mờ tự nhiên. Tay đút túi, khá "dáng mẫu" |
+| **T2b** Product listing, Texture Macro | [xem](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3ikef000my0iri9pfrk0md) | **Rất hợp làm ảnh thứ 2 của carousel**: cận chữ in và vải, chữ đúng |
+| **T3** Fisheye (City Low Angle) | [xem](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3ijqdr00mt0iri0x3sa6r1) | Gây chú ý nhất, nhưng **trông "AI" rõ** (góc từ dưới lên, tay sát ống kính, nhà chọc trời). Chữ in nhỏ. Chỉ nên dùng nếu cần 1 ảnh "ngắt cuộn" |
+| **T4** Tự dựng (GPT Image 2.5, Brand Kit, phố gạch nâu) | [xem](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3ijaaz000000ildmvg769q) | **Tự nhiên nhất**, giống ảnh bạn chụp: ánh sáng ngày, túi gym, khung hơi lệch. Chữ in đọc đúng, logo tay áo trái đúng bên |
+
+**Xếp hạng (Claude):** T4 ≈ T2a > T2b (ảnh phụ) > T3 (ảnh ngắt cuộn, tuỳ chọn) > T1 (loại).
+
+**Chi phí thật:** số dư Kittl giảm **450 token** trong lượt này (từ ~6.770 xuống 6.320), **nhiều hơn dự tính ~100**. Tôi chưa tách được workflow nào tốn bao nhiêu; công cụ không trả số token từng lần chạy. Nghi ngờ: workflow có Brand Kit tốn hơn giá cơ bản, hoặc job video lỗi trước đó bị trừ muộn. **Anh xem lịch sử token trong Kittl để chắc.** Từ giờ tôi đo số dư trước và sau **từng** lần chạy.
+
 ## 8. Cần anh chốt
 
 1. Cho tôi chạy **thử 4 mẫu ảnh + 1 video thử (khoảng 180 token)** như mục 7 không?

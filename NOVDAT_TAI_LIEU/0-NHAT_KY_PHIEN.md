@@ -26,6 +26,24 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Chạy thử 4 mẫu ảnh Kittl + kiểm thư mục design
+
+- **Anh chốt:** chỉ chạy thử 4 mẫu ảnh (không làm video UGC); các ảnh design của 11 mẫu ở `C:\Users\DAT\Desktop\Plan with CLAUDE\DesignForNOVDAT` trên máy local; yêu cầu Claude kiểm đủ chưa.
+- **Đã làm:**
+  - Chạy 4 mẫu trên *Tired. Went Anyway.* Hoodie Charcoal (David, Brand Kit NOVDAT), 5 ảnh. Kết quả và xếp hạng: [mục 7b](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/KITTL_TINH_NANG_VA_CACH_DUNG_0511.md). Tóm tắt: T4 tự dựng ≈ T2a Model Front > T2b ảnh cận chữ > T3 Fisheye (ngắt cuộn) > T1 (loại, chữ in có vẻ méo).
+  - Xếp 5 ảnh vào thư mục "David - Character" trên Kittl.
+  - Kiểm logo tay áo trên ảnh Front 2048 px: logo nằm đúng tay áo **trái của người mặc**.
+  - **Không đọc được thư mục local:** máy của anh chưa được chia sẻ cho phiên cloud này (danh sách thư mục local trống), nên chưa kiểm được 11 file.
+- **Claude tự chọn:** bật Brand Kit NOVDAT ở mọi workflow; T4 dùng ánh sáng ngày theo Brand Kit (không flash).
+- **Sai lệch cần nói thẳng:** dự tính ~100 token, **thực tế 450**. Chưa rõ nguyên nhân (xem mục 7b). Từ giờ đo số dư trước và sau từng lần chạy.
+- **Đã ghi ra ngoài:** Kittl (5 ảnh). GitHub. Thị trấn: `q31`.
+- **Chờ anh:**
+  1. Chấm 5 ảnh (đặc biệt kiểm chữ in trên bản gốc ở T2a, T4, T1).
+  2. Chọn phong cách cho 11 thẻ.
+  3. Cho tôi danh sách file design (cách làm ở tin nhắn) để kiểm đủ 11 mẫu.
+
+---
+
 ## 05/11 — Khảo sát Kittl cho 11 thẻ ảnh quảng cáo + giao nhóm agent Creative Trend Lab
 
 - **Anh giao:** kiểm tính năng Kittl (template, mockup, video UGC, quảng cáo) hỗ trợ làm 3 bộ quảng cáo ảnh (11 thẻ); xác nhận nơi chứa design; giao nhóm agent nghiên cứu phong cách creative ảnh/video hợp xu hướng; tư vấn cách dùng Kittl hiệu quả nhất. Hai video quảng cáo tạo vào 06/11 và 07/11.
