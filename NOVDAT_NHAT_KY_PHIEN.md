@@ -26,6 +26,24 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Tiến độ việc: từ 11/20 lên 13/20, kế hoạch đi tới 20/20
+
+- **Đã làm:**
+  - Đóng **Tiến độ 11** (ảnh và chữ cho 3 quảng cáo đã chốt, đã đưa vào prompt).
+  - Đóng **Tiến độ 42**, đổi tên thành "đợt 1". Pinterest và Reddit đã xong; phần đọc Meta theo tuổi nằm trong 4 lần kiểm tự động; TikTok bỏ.
+  - Viết [Phiếu 2 video](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/PHIEU_VIDEO_UPHILL_NOTFAST_0511.md): Uphill dùng David, Not Fast đề xuất Hanna, tối đa 1.300 token, 2 cổng duyệt.
+  - Viết [hướng dẫn Klaviyo](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/KLAVIYO_SETUP_0711.md): flow thanh toán dở, form đăng ký, Welcome 2 email.
+- **Claude tự chọn** (anh soát):
+  - Đóng Tiến độ 42 bằng cách đổi phạm vi thành "đợt 1". Không phải mọi lớp đã xong; phần còn lại đã có lịch.
+  - Đề xuất Hanna cho video Not Fast.
+- **Đã ghi ra ngoài:**
+  - Thị trấn: Tiến độ 11 và 42 → xong; Tiến độ 12, 21, 30 cập nhật bước tiếp; Hàng đợi `q28-video-phieu` (pending).
+  - GitHub: Phiếu + hướng dẫn Klaviyo.
+  - Không đụng Shopify, Meta hay Kittl.
+- **7 việc còn lại và ai làm:** xem bảng trong chat.
+
+---
+
 ## 05/11 — Prompt dựng bản nháp campaign (Claude Code + Chrome), 5 quảng cáo, kiểm định kỳ
 
 - **Anh chốt:**
