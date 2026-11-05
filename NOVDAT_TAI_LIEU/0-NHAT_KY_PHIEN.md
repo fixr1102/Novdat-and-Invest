@@ -39,7 +39,12 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 - **Claude tự chọn:**
   - B2 không chụp qua gương: chữ in trong gương bị ngược. Thay bằng ảnh bạn chụp góc thấp, ống kính 0.5x (kiểu "fit pic" đang phổ biến).
   - Video không lấy ảnh khung đầu làm khung mở (Hanna trong ảnh đó cười nhìn ống kính), chỉ dùng làm tham chiếu.
-- **Đã ghi ra ngoài:** Kittl (1 video, 2 ảnh, chuyển 4 ảnh vào thư mục nhân vật). GitHub.
+- **Kết quả:**
+  - [Video Hanna lần 1](https://www.kittl.com/ai-studio/video-generator?microEdit=cmw38tyst000000ilcmlm6n2e) (10 giây). Claude không tải được video về để tự kiểm (máy chặn `stream.mux.com`).
+  - [B2 David](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw38ue58000100ilrubqolsq): thang máy, góc thấp 0.5x, tự nhiên; logo ở tay áo trái.
+  - [B2 Hanna](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw38uikp000200il0vzc0eto): vỉa hè Brooklyn, cầm cà phê, tự nhiên; **[CẦN KIỂM]** logo tay áo (ảnh xem trước nhỏ).
+  - Token: 390 lần này. Còn khoảng 7.210.
+- **Đã ghi ra ngoài:** Kittl (1 video, 2 ảnh, chuyển B1 + B2 vào thư mục nhân vật). Thị trấn: `p12` (70%), `p44` → xong. GitHub.
 - **Chờ anh:**
   1. Xem video Hanna, chấm 7 tiêu chí. Tôi không xem được video trên Kittl.
   2. Chấm 2 ảnh B2.
