@@ -26,6 +26,17 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Anh đề nghị cho Claude dùng Pinterest Trends và TikTok Ads đang đăng nhập trên Firefox
+
+- **Claude chưa dùng.** Hai lý do:
+  1. Đây là phiên đăng nhập của anh, thuộc quyền đặc biệt; anh chưa gõ "đây là ngoại lệ".
+  2. Về kỹ thuật, từ phiên cloud này Claude không điều khiển được Firefox trên máy anh.
+- **Đề xuất:** cách A. Anh bấm, Claude phân tích. Tài khoản của anh không rời máy anh. Hướng dẫn từng bước ở chat.
+- **Đã ghi ra ngoài:** Thị trấn, Tiến độ 42: cập nhật bước tiếp theo.
+- **Chờ anh:** gửi file CSV hoặc ảnh chụp.
+
+---
+
 ## 05/11 — Chạy lớp 2 (Google Trends, Pinterest Trends, TikTok) từ cloud: không thành
 
 - **Đã làm:** mở 3 nguồn bằng trình duyệt chạy ngầm trên cloud, mỗi nguồn 1 lần, không đăng nhập.
