@@ -26,6 +26,30 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Nghiên cứu ảnh và video thời trang ở Mỹ + đề xuất cho David & Hanna
+
+- **Đã làm:**
+  - 6 lượt tìm web: danh sách cảnh quay thương mại điện tử, xu hướng ảnh 2026, cách các thương hiệu activewear chụp ảnh, nghiên cứu về nét mặt người mẫu, video Reels cho quần áo, ảnh áo in chữ.
+  - Viết [báo cáo + đề xuất](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/NOVDAT_PHOTO_VIDEO_STYLE_0511.md):
+    - Bộ ảnh chuẩn 8 kiểu cho mỗi mẫu.
+    - Xu hướng ở Mỹ: ít bóng bẩy, phong cách tài liệu, điềm tĩnh.
+    - Bảng nét mặt theo bối cảnh.
+    - Bộ A (đủ góc), B (phong cách mới), C (Noel), và 6 video mẫu.
+    - Chi phí và thứ tự làm.
+  - Nguồn phần lớn là blog ngành; **không dùng số liệu chưa kiểm chứng**.
+- **Đã ghi ra ngoài:**
+  - Thị trấn: Hàng đợi `q29-photo-style` (pending).
+  - GitHub: báo cáo.
+  - Không tạo ảnh hay video nào, không tốn token.
+- **Chờ anh chốt 4 câu** (mục 8 của báo cáo):
+  1. Bảng nét mặt mặc định.
+  2. Lô thử 6 ảnh (~120 token): đồng ý không, áp cho mẫu nào.
+  3. Phong cách mới thử trước.
+  4. Ảnh đôi David + Hanna: dựng là bạn cùng nhóm chạy, vì hồ sơ David đã có vợ.
+- **Vẫn chờ từ trước:** "OK video" cho 2 video test 08/11.
+
+---
+
 ## 05/11 — Video quảng cáo: cổng 1 (ảnh khung đầu) với 2 model NOVDAT
 
 - **Anh chốt:** 1 video nam và 1 video nữ, dùng 2 model AI của NOVDAT; 1 video mặc hoodie tối màu. Mục tiêu hôm nay: chuẩn bị 99% cho ngày 08/11.
