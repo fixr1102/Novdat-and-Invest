@@ -26,6 +26,39 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Đủ Bộ A (6 ảnh) + Bộ B phong cách 1 (flash đêm) + kho phong cách cho 2 nhân vật
+
+- **Anh chốt:**
+  - Cho phép tạo đủ Bộ A (6 ảnh).
+  - Bộ B cho cả Hanna và David.
+  - Xây kho phong cách để 2 nhân vật "nói thay lời Founder".
+- **Đã làm** (mẫu Tired. Went Anyway; **120 token** lần này, tổng 200 từ đầu ngày; còn khoảng 7.600):
+  - **A3** · [David mặt sau](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37y0rw000000ilxype7of8): tự nhiên. **[CẦN KIỂM]** logo có thể nằm ở tay áo phải.
+  - **A4** · [Cận chữ in + logo](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37y4sq000100il3cczwyqx): đẹp nhất, chữ rõ.
+  - **A5** · [David sau buổi chạy](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37ya1s000200ilhm3w2q1p): thật, nhưng nét mệt chưa rõ.
+  - **A6** · [Hanna bên cửa sổ](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37yf1l000300ilkus609w0): ấm, chân thật.
+  - **B1** · [David flash đêm](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37yn9t000400ilhk7zo70x): cười bật, rất giống ảnh chụp nhanh thật.
+  - **B1** · [Hanna flash đêm](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37ys2n000500ilahyul12x): tự nhiên, nụ cười hơi tạo dáng.
+  - Soạn [kho phong cách & thông điệp](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/NOVDAT_CHARACTER_STYLE_LIBRARY.md):
+    - Ranh giới: kể ngôi thứ ba, gắn nhãn AI, không đánh giá giả, ghi công chuyện thật của anh.
+    - Thông điệp chính cho từng nhân vật.
+    - Bảng phong cách A/B/C và 10 câu nói.
+- **Claude tự chọn:**
+  - Giữ cùng mẫu áo cho mọi ảnh thử, để so phong cách cho công bằng.
+  - Bối cảnh từng ảnh.
+  - Phân vai: Bộ A có 4 ảnh David, 2 ảnh Hanna (nghiêng về nam như anh muốn).
+- **Đã ghi ra ngoài:**
+  - Kittl: 6 ảnh mới.
+  - Thị trấn: `q29` (đủ 8 link); `q30-character-library` (pending).
+  - GitHub: kho phong cách.
+- **Chờ anh:**
+  1. Chấm 8 ảnh: Giữ / Bỏ / Sửa.
+  2. Duyệt kho phong cách (mục 5 của file).
+  3. B1 đạt thì làm tiếp B2 (fit check).
+  4. Từ trước, vẫn chờ: duyệt bản mô tả video (6 hay 8 giây).
+
+---
+
 ## 05/11 — Giao việc m1 định kỳ, cặp ảnh thử 1, bản mô tả video chờ duyệt
 
 - **Anh chốt:**
