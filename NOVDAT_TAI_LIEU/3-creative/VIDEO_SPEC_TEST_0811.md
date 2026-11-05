@@ -75,6 +75,31 @@ Token còn: **7.720**.
 3. Video 1 đạt thì Claude tạo Video 2.
 4. Anh ghép chữ và nhạc. Claude viết prompt để Claude in Chrome thêm 2 video vào ad set (anh tự đăng).
 
+## Nhật ký tạo video (Founder chốt 05/11: làm Video Hanna trước, được kéo 10–12 giây)
+
+**Video 2 · Hanna · Not Fast White, lần 1:**
+- **Thông số:** Seedance 2.0, 9:16, **10 giây**, có tiếng nền, **350 token**. Job `cmw38tyst000000ilcmlm6n2e`.
+- **Cách làm:**
+  1. Không dùng ảnh khung đầu làm khung mở. Ảnh đó Hanna đứng cười nhìn ống kính, không hợp hook "Mile 2. Legs said no.".
+  2. Đưa 3 ảnh làm **tham chiếu**: ảnh khung đầu (để giữ đúng áo, chữ in, logo tay áo, phố Brooklyn) và 2 ảnh gốc của Hanna (để giữ đúng mặt).
+  3. Prompt tả từng giây:
+     - 0–3 giây: chống tay lên gối nghỉ (lúc này chữ hook hiện).
+     - 3–6 giây: đứng thẳng, vén tóc, chữ in đọc rõ ≥ 2 giây.
+     - 6–10 giây: quay người chạy tiếp, xa dần.
+  4. Chặn "vẻ AI": máy cầm tay, tốc độ thật, không hơi thở khói, không nhìn ống kính, không chữ trong nền.
+- **Tiếng:** bật tiếng nền của Seedance, prompt chỉ cho tiếng phố (xe xa, bước chân, lá khô). **Cấm nhạc, lời nói, thuyết minh.** Nếu tiếng ra không hợp, anh tắt tiếng gốc khi ghép.
+
+## Âm thanh: công cụ và luật
+
+| Cách | Dùng cho | Ghi chú |
+|---|---|---|
+| **Tiếng nền Seedance** (đã bật) | Tiếng phố, bước chân | Có sẵn khi tạo video. Không có lời nhân vật |
+| **Nhạc trong Meta Ads Manager** (mục thêm nhạc khi tạo quảng cáo) | Nhạc nền cho quảng cáo | Thư viện của Meta được cấp phép dùng cho quảng cáo. **An toàn nhất** |
+| **CapCut**, lọc nhạc "dùng cho thương mại" | Nhạc nền khi anh ghép chữ | Chỉ chọn bài có nhãn dùng thương mại |
+| ~~Nhạc trend trên TikTok/Reels~~ | — | **Không dùng cho quảng cáo:** bản quyền chỉ cho bài đăng thường, quảng cáo dễ bị tắt tiếng hoặc gỡ |
+
+**Nguyên tắc (anh chốt):** hook phải hiểu được khi tắt tiếng. Chữ trên màn hình và chiếc áo kể chuyện. Không chèn lời nhân vật.
+
 ## Cần anh duyệt
 
 - [x] Thêm hook vào 2 video (anh chốt 05/11).

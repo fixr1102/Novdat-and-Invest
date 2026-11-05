@@ -26,6 +26,26 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Video Hanna (lần 1) + ảnh phong cách B2 + xếp ảnh vào thư mục nhân vật
+
+- **Anh chốt:**
+  - Làm video Hanna trước, hook "Mile 2. Legs said no.", được kéo 10–12 giây.
+  - Tìm công cụ âm thanh; ưu tiên hook tự hiểu khi xem, không chèn lời nhân vật.
+  - Làm phong cách B và B2 cho cả hai, xếp vào thư mục David và Hanna trên Kittl.
+- **Đã làm:**
+  - Video Hanna 10 giây trên Seedance 2.0, có tiếng nền phố, cấm nhạc và lời nói (350 token). Cách làm và bảng công cụ âm thanh ghi trong [bản mô tả video](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/VIDEO_SPEC_TEST_0811.md).
+  - Ảnh B2 "fit check" cho David và Hanna (40 token).
+  - Chuyển ảnh B1 và B2 vào thư mục "David - Character" và "Hanna - Character" trên Kittl.
+- **Claude tự chọn:**
+  - B2 không chụp qua gương: chữ in trong gương bị ngược. Thay bằng ảnh bạn chụp góc thấp, ống kính 0.5x (kiểu "fit pic" đang phổ biến).
+  - Video không lấy ảnh khung đầu làm khung mở (Hanna trong ảnh đó cười nhìn ống kính), chỉ dùng làm tham chiếu.
+- **Đã ghi ra ngoài:** Kittl (1 video, 2 ảnh, chuyển 4 ảnh vào thư mục nhân vật). GitHub.
+- **Chờ anh:**
+  1. Xem video Hanna, chấm 7 tiêu chí. Tôi không xem được video trên Kittl.
+  2. Chấm 2 ảnh B2.
+
+---
+
 ## 05/11 — Gom tài liệu vào 1 thư mục + ghi 4 quyết định của anh
 
 - **Anh chốt:**
