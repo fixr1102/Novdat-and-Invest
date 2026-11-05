@@ -1,4 +1,8 @@
-# NOVDAT: plugin Claude Code
+# NOVDAT
+
+> **Tài liệu cho Founder (báo cáo, hướng dẫn, creative, nhật ký): thư mục [`NOVDAT_TAI_LIEU/`](NOVDAT_TAI_LIEU/README.md).** Phần dưới đây chỉ nói về plugin kỹ thuật.
+
+## Plugin Claude Code
 
 ## novdat-trend: Trend Radar với số tương tác thật
 

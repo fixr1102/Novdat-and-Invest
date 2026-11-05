@@ -121,4 +121,4 @@ Grinch, Elf, Home Alone ("Merry Christmas you filthy animal"), Nightmare Before 
 
 **Để có YouTube:** chạy cùng lệnh trên máy local của anh (IP nhà, không cần cookie). Xem Nhật ký phiên.
 
-File gốc engine: `trend-radar/raw/`.
+File gốc engine: `NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/raw/`.

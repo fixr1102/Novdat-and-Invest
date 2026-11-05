@@ -1,4 +1,4 @@
-# Kho phong cách & thông điệp: David và Hanna (bản 0.1, [ĐỀ XUẤT] chờ Founder duyệt)
+# Kho phong cách & thông điệp: David và Hanna (bản 1.0, **Founder duyệt 05/11/2026**)
 
 Ngày 05/11/2026 · Founder giao: "bổ sung kho phong cách cho 2 nhân vật; họ thay lời muốn nói của Founder".
 
@@ -19,8 +19,8 @@ Ranh giới Honest Commerce và luật quảng cáo ở Mỹ:
 
 | | **David** | **Hanna** |
 |---|---|---|
-| Tuổi, nơi sống | 25, Woodside (Queens), New York | 23, Brooklyn [CẦN BỔ SUNG: chi tiết hồ sơ] |
-| Nhịp sống | Chạy 5K mỗi sáng (đang tập bán marathon), gym, pickleball cuối tuần, học mỗi ngày, lạc quan | [CẦN BỔ SUNG] Đề xuất: làm văn phòng, chạy chậm sau giờ làm, thích cà phê và sống chậm |
+| Tuổi, nơi sống | 25, Woodside (Queens), New York | 23, Brooklyn |
+| Nhịp sống | Chạy 5K mỗi sáng (đang tập bán marathon), gym, pickleball cuối tuần, học mỗi ngày, lạc quan | Làm văn phòng, chạy chậm sau giờ làm, thích cà phê và sống chậm (Founder duyệt 05/11) |
 | Đời sống | Vợ KimUn (24, gốc Hàn), cưới 9/2026, nên **không** dựng cặp đôi với Hanna | Ảnh chung với David: **bạn cùng nhóm chạy** |
 | Hợp với áo | Running hoodie/sweatshirt màu tối (Black, Charcoal); Uphill, Run Now, Not Fast, Proudly Mid-Pack | Màu sáng (White, Sand); Tired, Five More Minutes, Still Running, Cold Miles |
 | Thông điệp chính (của Founder) | **"Chạy chậm vẫn là chạy. Giữ lời hứa với chính mình."** | **"Mệt thì dừng thở, rồi đi tiếp. Những giờ nhỏ là của mình."** |
@@ -33,7 +33,7 @@ Ranh giới Honest Commerce và luật quảng cáo ở Mỹ:
 | A2 | 3/4 đang bước, phố | Hanna | Nhìn đường | Khung hơi lệch |
 | A3 | Mặt sau, nhìn qua vai | David | Cười nửa miệng | Lưng áo trơn, thấy logo tay áo |
 | A4 | Cận chữ in + logo tay | (không mặt) | — | 1:1 |
-| A5 | Thở dốc sau chạy | David | Mệt thật | 9:16 |
+| A5 | Ngồi nghỉ sau chạy | David | Bình thường, không diễn mệt | 9:16 · Bản đầu bị bỏ 05/11 (hơi thở khói, trông AI) |
 | A6 | Buổi sáng ở nhà | Hanna | Dịu, nhìn ra cửa sổ | 4:5 |
 | B1 | Flash đêm phố | Cả hai | Cười bật, bất ngờ | Không biển hiệu trong nền |
 | B2 | "Fit check" kiểu ảnh điện thoại | David | Tự nhiên | Gương thang máy hoặc gym |
@@ -47,6 +47,7 @@ Ranh giới Honest Commerce và luật quảng cáo ở Mỹ:
 - David mặc quần đùi chạy; giày không logo.
 - Ánh sáng thật, bối cảnh bình thường.
 - Không cười tạo dáng.
+- **Không hơi thở thành khói, không diễn mệt quá mức** (Founder 05/11: ảnh A5 "trông AI quá", bỏ). Bối cảnh bình thường là đủ.
 - Gắn nhãn AI.
 
 ## 3. Ngân hàng câu nói (giọng Founder, dùng cho chữ trên video và caption; [ĐỀ XUẤT], loại B)
@@ -61,7 +62,7 @@ Viết tiếng Anh cho khách Mỹ. Câu nào gắn với chuyện thật của 
 | 4 | "A promise to yourself is still a promise." | David · chạy sáng | Từ mô tả sản phẩm đã duyệt |
 | 5 | "The first runs were the hardest. Then they weren't." | Hanna · Not Fast | **Ghi công:** "Inspired by our founder's first runs." |
 | 6 | "Some hours are just yours." | Hanna · buổi sáng | Linh hồn thương hiệu |
-| 7 | "Slow miles still count." | David | [CẦN KIỂM] tránh trùng nhãn hiệu "SLOW MILES" (đang có đơn đăng ký); có thể đổi thành "Slow runs still count." |
+| 7 | "Slow runs still count." | David | Đã đổi từ "Slow miles…" để tránh nhãn hiệu "SLOW MILES" (đang có đơn đăng ký) |
 | 8 | "Wear less. Mean more." | Kết video | Khẩu hiệu thương hiệu |
 | 9 | "Made to order. Delivered in 4 to 8 business days." | Thẻ cuối quảng cáo | Thông tin thật, không hứa kịp lễ |
 | 10 | "Running gift for someone who goes anyway." | Mùa quà | Không nói khẩn cấp |
@@ -75,7 +76,11 @@ Viết tiếng Anh cho khách Mỹ. Câu nào gắn với chuyện thật của 
 
 Thứ tự: B1 (flash đêm) → B2 (fit check) → B3 (từ trên xuống) → B4 (nhóm chạy) → B5 (nhiều lớp). Mỗi phong cách làm 1 ảnh David + 1 ảnh Hanna. Founder chấm "Giữ / Bỏ / Sửa". Phong cách được giữ thì phát triển tiếp cho các mẫu khác.
 
-## 5. Cần Founder chốt
+## 5. Founder đã chốt (05/11/2026)
+
+Duyệt cả 4 mục dưới đây, gồm hồ sơ Hanna theo đề xuất ở mục 1. Kết quả chấm 8 ảnh: đa số đạt; **A5 bỏ**.
+
+### Các mục đã duyệt
 
 1. Ranh giới ở mục 0 (kể ngôi thứ ba, không đánh giá giả, ghi công chuyện thật).
 2. Thông điệp chính cho từng nhân vật (mục 1).

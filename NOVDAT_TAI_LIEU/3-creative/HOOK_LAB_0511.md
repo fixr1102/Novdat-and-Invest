@@ -1,4 +1,4 @@
-# Hook Lab: học từ video tham khảo, áp vào NOVDAT ([ĐỀ XUẤT], chờ Founder duyệt)
+# Hook Lab: học từ video tham khảo, áp vào NOVDAT
 
 Ngày 05/11/2026 · Claude soạn từ 2 video Founder gửi (`ThamKhaoHookVideo.mp4` 59s, `ThamKhao02.mp4` 29s).
 
@@ -37,7 +37,7 @@ Người dẫn nói (phụ đề): *"Bản chất không cần nghĩ kịch bả
 - Giao **1 chủ đề**, cả đội cùng làm theo dây chuyền: nghiên cứu → viết hook → viết bài cho 3 kênh → làm ảnh bìa → dựng video → bảng tiến độ báo ngay.
 - **"Bài đã duyệt: 7"**: có bước duyệt trước khi đăng.
 
-Đề xuất đội agent cho NOVDAT ở file riêng: `team/NOVDAT_AGENT_TEAM_DE_XUAT.md`.
+Đề xuất đội agent cho NOVDAT ở file riêng: `NOVDAT_TAI_LIEU/4-doi-agent/NOVDAT_AGENT_TEAM_DE_XUAT.md`.
 
 ---
 
@@ -90,6 +90,8 @@ Chữ trên màn hình viết tiếng Anh cho khách Mỹ. Không có "you/your"
 | Video không người (H5, H9) | Làm được, ít lỗi nhất | Claude |
 
 ## 6. Đề xuất cho test 08/11 (không đổi cấu trúc test)
+
+> **Founder chốt 05/11:** thêm hook vào 2 video sắp tạo. Bản mô tả video đã sửa thành bản 2 (`NOVDAT_TAI_LIEU/3-creative/VIDEO_SPEC_TEST_0811.md`). Video 2 dùng hook "Mile 2. Legs said no." thay cho bản dắt chó (ít chỗ AI dễ lỗi hơn). Từ nay **không dùng chi tiết hơi thở thành khói** trong ảnh và video.
 
 - **Giữ nguyên** 3 quảng cáo ảnh và cấu trúc ad set. Plan cấm đổi giữa vòng đo.
 - **Sửa 2 bản mô tả video** đang chờ duyệt: thêm hook "câu dở dang" vào chữ trên màn hình. Thời lượng vẫn 6 giây, token không đổi (420), chỉ đổi chữ anh ghép:

@@ -1,6 +1,6 @@
-# Đội agent NOVDAT ([ĐỀ XUẤT], chờ Founder duyệt)
+# Đội agent NOVDAT (Founder duyệt 05/11/2026)
 
-Ngày 05/11/2026 · Claude soạn, học từ video LinTech "19 AI agent" (xem `creative/HOOK_LAB_0511.md`, mục 2).
+Ngày 05/11/2026 · Claude soạn, học từ video LinTech "19 AI agent" (xem `NOVDAT_TAI_LIEU/3-creative/HOOK_LAB_0511.md`, mục 2).
 
 ## 0. Nguyên tắc (giữ từ One Plan và luật phiên)
 
@@ -16,7 +16,7 @@ Ngày 05/11/2026 · Claude soạn, học từ video LinTech "19 AI agent" (xem `
 | # | Vai ("toà nhà") | Làm gì | Công cụ đã có | Nhịp | Đầu ra cho anh |
 |---|---|---|---|---|---|
 | 1 | **Trinh sát** (nghiên cứu thị trường) | Đọc xu hướng ở Mỹ: Reddit, Pinterest (CSV anh xuất), tin chạy bộ; lắng nghe cộng đồng theo mục 1.6 | Plugin `novdat-trend`, việc định kỳ `m1` | **Đang chạy:** thứ Hai và thứ Năm, 08:13 | Báo cáo 1 trang + 3 đề xuất |
-| 2 | **Hook Lab** (sáng tạo) | Biến dữ liệu Trinh sát thành hook, kịch bản và Phiếu video/ảnh theo công thức "câu dở dang, áo nói nốt" | `creative/HOOK_LAB_0511.md`, kho phong cách David/Hanna, skill `novdat-video-prompt` | Mới: 1 lần/tuần, sau Trinh sát | 3 Phiếu chờ duyệt |
+| 2 | **Hook Lab** (sáng tạo) | Biến dữ liệu Trinh sát thành hook, kịch bản và Phiếu video/ảnh theo công thức "câu dở dang, áo nói nốt" | `NOVDAT_TAI_LIEU/3-creative/HOOK_LAB_0511.md`, kho phong cách David/Hanna, skill `novdat-video-prompt` | Mới: 1 lần/tuần, sau Trinh sát | 3 Phiếu chờ duyệt |
 | 3 | **Gác cổng chữ** (tuân thủ) | Kiểm copy của Muse và hook theo luật Meta, Honest Commerce, nhãn hiệu (USPTO 025), nhãn AI | Skill `novdat-marketing-psychology`, rào trong plugin | Mỗi khi có chữ mới | Bảng "đạt / sửa", lý do |
 | 4 | **Xưởng** (media) | Tạo ảnh, video trên Kittl **sau khi anh duyệt Phiếu**; tự chấm theo tiêu chí; báo token | Kittl MCP, skill `novdat-seedance-kittl`, `novdat-style-library` | Theo Phiếu | Link Kittl + tự chấm |
 | 5 | **Đọc số** (ads, store) | Đọc Meta (Adspirer, chỉ đọc) và Shopify; so với ngưỡng dừng/scale của plan | Adspirer, Shopify (chỉ đọc), ShopifyQL | **Đã lịch:** 10/11, 11/11, 12/11, 15/11 | Báo cáo số + đề xuất giữ/dừng |
@@ -50,8 +50,11 @@ Ví dụ chủ đề: "Hoodie chạy bộ mùa lạnh".
 - Mỗi lần lịch chạy dùng hạn mức Claude của anh.
 - Token Kittl chỉ tốn khi anh đã duyệt Phiếu.
 
-## 4. Cần anh chốt
+## 4. Founder đã chốt (05/11/2026)
 
-1. Duyệt 6 vai ở mục 1 (thêm, bớt hay đổi tên vai nào).
-2. Có lịch Hook Lab hằng tuần không? Đề xuất: **thứ Sáu, 3 Phiếu/tuần**, bắt đầu sau khi có số 11/11.
-3. Có thêm tab "Đội" vào Thị trấn không?
+1. **Duyệt 6 vai** ở mục 1.
+2. **Hook Lab: thứ Sáu hằng tuần, 3 phiếu/tuần.** Lần chạy thật đầu tiên là 14/11, sau khi có số đọc ngày 11/11. Lịch chạy ngày 07/11 tự bỏ qua.
+3. **"Thêm khi cần để rõ quy trình, tránh rác và rối thông tin."** Claude áp dụng như sau:
+   - **Không** thêm tab mới vào Thị trấn. Chỉ thêm **1 thẻ Tiến độ `p44` "Đội agent"**, ghi 6 vai và lịch của từng vai.
+   - Mỗi lần chạy, Hook Lab ghi **1 file** (`NOVDAT_TAI_LIEU/3-creative/hook-lab/<ngày>-phieu.md`) và **1 thẻ Hàng đợi** cho anh. Không tạo thêm thẻ nào khác.
+   - Mọi file của đội nằm trong thư mục `NOVDAT_TAI_LIEU/`.

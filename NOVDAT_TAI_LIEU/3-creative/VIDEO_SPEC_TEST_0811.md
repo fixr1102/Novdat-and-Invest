@@ -1,6 +1,6 @@
 # Bản mô tả 2 video quảng cáo — chờ Founder duyệt trước khi tạo (Seedance 2.0)
 
-Ngày 05/11/2026 · Claude soạn. **Chưa tạo video nào.** Chỉ tạo khi anh duyệt bản này.
+Ngày 05/11/2026 · Claude soạn. **Bản 2** (05/11): thêm hook "câu dở dang, áo nói nốt" (anh chốt) và bỏ chi tiết hơi thở thành khói (anh góp ý: "trông AI quá"). **Chưa tạo video nào.** Chỉ tạo khi anh duyệt bản này.
 
 ## Tóm tắt
 
@@ -15,7 +15,8 @@ Ngày 05/11/2026 · Claude soạn. **Chưa tạo video nào.** Chỉ tạo khi a
 | **Khổ** | 9:16 (Reels, Stories) | 9:16 |
 | **Thời lượng** | **6 giây (đề xuất)** hoặc 8 giây | **6 giây (đề xuất)** hoặc 8 giây |
 | **Tiếng** | Không (anh ghép nhạc sau) | Không |
-| **Chữ trên video** (anh ghép) | "One step at a time." | "Not fast. Still out here." |
+| **Hook chữ 0–2 giây** (anh ghép) | **"That hill again."** | **"Mile 2. Legs said no."** |
+| **Áo nói nốt (2–4 giây)** | Mặt trước áo: *UPHILL, slowly.* | Mặt trước áo: *NOT FAST. STILL OUT HERE.* |
 | **Nhãn AI** | "Visuals created with AI." ở cuối primary text | Như bên trái |
 
 ## Chi phí token (Seedance 2.0 = 35 token/giây)
@@ -32,12 +33,12 @@ Token còn: **7.720**.
 ## Kịch bản từng giây (6 giây)
 
 **Video 1 · David · Uphill Black**
-- 0–2s: máy cầm tay, hơi rung, chạy lùi phía trước David. David chạy chậm lên dốc, hơi thở thành khói. *Mở đầu bằng chuyển động.*
+- 0–2s: máy cầm tay, hơi rung, chạy lùi phía trước David. David chạy chậm lên dốc. Chữ hook: **"That hill again."** *Mở đầu bằng chuyển động.*
 - 2–4s: David chạy thẳng về phía máy. **Mặt trước áo đọc rõ ≥ 1,5 giây** (núi + "UPHILL, slowly.").
 - 4–6s: tới chỗ bằng, chậm lại, thở ra, nhìn về phía trước. Không ăn mừng, không nhìn ống kính.
 
 **Video 2 · Hanna · Not Fast White**
-- 0–2s: Hanna đang chống tay lên gối, thở dốc dưới đèn đường. *Mở đầu bằng khuôn mặt mệt thật.*
+- 0–2s: Hanna đang chống tay lên gối nghỉ dưới đèn đường. Chữ hook: **"Mile 2. Legs said no."** *Mở đầu bằng tư thế nghỉ, nét mặt bình thường, không diễn mệt.*
 - 2–4s: đứng thẳng, vén tóc. **Mặt trước áo đọc rõ ≥ 1,5 giây** ("NOT FAST." đỏ, "STILL OUT HERE." đen).
 - 4–6s: quay người chạy tiếp, chậm mà đều, ra khỏi khung hình.
 
@@ -46,7 +47,8 @@ Token còn: **7.720**.
 - Máy **cầm tay, hơi rung**, như bạn chạy cùng quay bằng điện thoại. Không bay mượt kiểu flycam.
 - **Tốc độ thật**, không slow-motion điện ảnh. Dáng chạy chậm, hơi nặng nề như người bình thường.
 - Ánh sáng **xám, phẳng** (V1) / **đèn đường vàng trộn trời xanh tối** (V2). Không nắng vàng rực, không lóa ống kính.
-- Da thật, tóc bay lòa xoà, hơi thở thành khói, vải nhăn khi chuyển động.
+- Da thật, tóc bay lòa xoà, vải nhăn khi chuyển động.
+- **Không có hơi thở thành khói**, không diễn thở dốc quá mức (anh góp ý 05/11: trông AI quá). Bối cảnh bình thường là đủ.
 - Bối cảnh bình thường (xe đỗ, thùng rác, cột điện), **không biển chữ** trong nền (AI hay viết chữ vô nghĩa).
 - Không cười tạo dáng, không nhìn ống kính.
 - **Giữ nguyên** từ ảnh khung đầu: mặt, tóc, áo, chữ in, logo tay áo. **Chỉ thay đổi:** chuyển động và góc máy.
@@ -75,7 +77,10 @@ Token còn: **7.720**.
 
 ## Cần anh duyệt
 
-- [ ] Nội dung 2 video như trên (mẫu áo, người mẫu, bối cảnh, kịch bản).
+- [x] Thêm hook vào 2 video (anh chốt 05/11).
+- [ ] Nội dung 2 video như trên (mẫu áo, người mẫu, bối cảnh, kịch bản, chữ hook).
+
+*Claude tự chọn:* hook Video 2 dùng "Mile 2. Legs said no." thay cho "Got passed by a dog walker." ở Hook Lab, vì bản dắt chó phải thêm người lạ và con chó vào cảnh. Thêm đối tượng là thêm chỗ AI dễ lỗi (mặt, chân chó). Anh muốn bản dắt chó thì nói, tôi sửa prompt.
 - [ ] Thời lượng: **6 giây** (420 token cho 2 video) hoặc 8 giây (560).
 - [ ] Ngân sách tối đa, tính cả làm lại: 840 token (6 giây) hoặc 1.120 (8 giây).
 - [ ] Làm **lần lượt**: Video 1 đạt mới làm Video 2.

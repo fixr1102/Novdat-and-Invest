@@ -17,12 +17,40 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 | # | Việc | Loại | Hạn gợi ý | Cách làm |
 |---|---|---|---|---|
 | 1 | Kiểm theme DEV theo checklist 9 mục (mục "05/11 — Trả lời 7 câu" bên dưới). Đúng hết thì **anh** bấm Publish | C | trước 08/11 | Admin → Online Store → Themes → "DEV - Copy fixes 05/11 (Q1-Q3)" → Publish |
-| 2 | Đọc [báo cáo Trend Radar 05/11](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-trend-radar-3-ngach.md). Có cho Claude chạy lại Noel khoảng 20/11 không? | — | 20/11 | Trả lời Claude |
+| 2 | Đọc [báo cáo Trend Radar 05/11](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/2026-11-05-trend-radar-3-ngach.md). Có cho Claude chạy lại Noel khoảng 20/11 không? | — | 20/11 | Trả lời Claude |
 | 3 | Tuỳ chọn, không bắt buộc: ghi $4.99 và ngưỡng $75 vào trang Shipping policy | B | khi rảnh | Admin → Settings → Policies → Shipping policy |
 | 4 | Cấu hình Xưởng (Thị trấn, `config/studio`) còn trỏ workspace Kittl cũ. Có cho Claude sửa sang "Dat's Team" không? | — | trước khi làm creative | Trả lời Claude |
-| 5 | Checklist 10 bước của audit (ảnh 1, 2, 4, 5, 7) | — | khi rảnh | [Báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md) |
+| 5 | Checklist 10 bước của audit (ảnh 1, 2, 4, 5, 7) | — | khi rảnh | [Báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md) |
 
 **Đã chốt (không còn chờ):** giữ "Rào Honest Commerce và IP" (05/11); gỡ server MCP `kittl` local (05/11).
+
+---
+
+## 05/11 — Gom tài liệu vào 1 thư mục + ghi 4 quyết định của anh
+
+- **Anh chốt:**
+  1. Mọi file của phiên nằm trong 1 thư mục, dễ tìm, dễ tải.
+  2. Thêm hook vào 2 video sắp tạo.
+  3. Duyệt 6 vai đội agent; Hook Lab thứ Sáu, 3 phiếu/tuần; chỉ thêm thứ gì giúp quy trình rõ hơn, tránh rác.
+  4. 8 ảnh: đa số đạt; **A5 bỏ** (hơi thở khói, trông AI quá; bối cảnh bình thường là đủ).
+  5. Duyệt kho phong cách David & Hanna.
+- **Đã làm:**
+  - Chuyển toàn bộ tài liệu vào [`NOVDAT_TAI_LIEU/`](https://github.com/fixr1102/Novdat-and-Invest/tree/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU), chia 4 thư mục con, có [mục lục](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/README.md). Nhật ký phiên đổi tên thành `0-NHAT_KY_PHIEN.md`. Sửa mọi link trong file, trong Thị trấn và trong lịch m1.
+  - Plugin Trend Radar giữ ở gốc repo, vì Claude Code chỉ nạp plugin ở đó.
+  - [Bản mô tả video, bản 2](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/VIDEO_SPEC_TEST_0811.md): hook "That hill again." / "Mile 2. Legs said no."; bỏ hơi thở thành khói.
+  - Kho phong cách lên bản 1.0 (đã duyệt): câu 7 đổi thành "Slow runs still count."; thêm luật không hơi thở khói, không diễn mệt.
+  - Đội agent: ghi quyết định vào file; tạo lịch Hook Lab.
+- **Claude tự chọn:**
+  - Hook Video 2 dùng "Mile 2. Legs said no." thay cho bản dắt chó: bản dắt chó phải thêm người lạ và con chó, AI dễ lỗi hơn.
+  - Không thêm tab mới vào Thị trấn. Chỉ thêm 1 thẻ Tiến độ `p44` cho đội agent.
+  - Hook Lab chạy thật từ 14/11; lần 07/11 tự bỏ qua (chưa có số ads).
+- **Đã ghi ra ngoài:**
+  - GitHub: chuyển thư mục, mục lục, sửa 3 file creative/đội.
+  - Thị trấn: sửa link 6 thẻ Tiến độ (p12, p14, p21, p23, p41, p42); thêm `p44`; `q30` → đã duyệt; `q28` → bản 2.
+  - Lịch: sửa đường dẫn trong lịch m1; tạo lịch **Hook Lab** (thứ Sáu 08:47 giờ VN, phiên mới mỗi lần, có thông báo điện thoại). Lịch này không mang theo connector, giống m1.
+- **Chờ anh:**
+  1. Duyệt bản mô tả video bản 2 và chọn **6 hay 8 giây**. Duyệt xong tôi tạo Video 1 (David) trước.
+  2. Có làm tiếp phong cách B2 (fit check) cho David và Hanna không (40 token)?
 
 ---
 
@@ -31,13 +59,13 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 - **Anh giao:** xem video hook để học cách làm creative giữ người xem; kiểm One Plan; xem video LinTech để xây đội agent; đề xuất bước tiếp.
 - **Đã làm:**
   - Xem 2 video bằng cách cắt khung hình (video 1: 59 giây, 2 khung/giây; video 2: 29 giây). **Không nghe được tiếng**, chỉ đọc phụ đề.
-  - Soạn [Hook Lab](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/HOOK_LAB_0511.md):
+  - Soạn [Hook Lab](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/HOOK_LAB_0511.md):
     - Phân tích 5 ví dụ "mở đầu mượt mà".
     - Lọc theo luật: bỏ kiểu giả tai nạn và logo hãng khác.
     - Công thức riêng "câu dở dang, áo nói nốt".
     - 10 hook cho các mẫu In Motion.
     - Bảng AI làm được tới đâu.
-  - Soạn [đề xuất đội agent](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/team/NOVDAT_AGENT_TEAM_DE_XUAT.md):
+  - Soạn [đề xuất đội agent](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/4-doi-agent/NOVDAT_AGENT_TEAM_DE_XUAT.md):
     - 6 vai, anh là người duyệt duy nhất.
     - Dây chuyền một chủ đề.
 - **Claude tự chọn:**
@@ -64,7 +92,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
   - **A6** · [Hanna bên cửa sổ](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37yf1l000300ilkus609w0): ấm, chân thật.
   - **B1** · [David flash đêm](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37yn9t000400ilhk7zo70x): cười bật, rất giống ảnh chụp nhanh thật.
   - **B1** · [Hanna flash đêm](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37ys2n000500ilahyul12x): tự nhiên, nụ cười hơi tạo dáng.
-  - Soạn [kho phong cách & thông điệp](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/NOVDAT_CHARACTER_STYLE_LIBRARY.md):
+  - Soạn [kho phong cách & thông điệp](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/NOVDAT_CHARACTER_STYLE_LIBRARY.md):
     - Ranh giới: kể ngôi thứ ba, gắn nhãn AI, không đánh giá giả, ghi công chuyện thật của anh.
     - Thông điệp chính cho từng nhân vật.
     - Bảng phong cách A/B/C và 10 câu nói.
@@ -94,13 +122,13 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
   5. Ảnh đôi: OK.
   6. Video phải có bản mô tả đầy đủ, anh duyệt mới tạo; tránh "ảnh AI quá".
 - **Đã làm:**
-  - **Giao việc cho m1 (Nghiên cứu thị trường):** lịch tự động **thứ Hai và thứ Năm, 08:13 giờ VN**. Lần đầu 09/11. Mỗi lần mở phiên mới và **có thông báo về điện thoại**. Báo cáo lưu ở `trend-radar/<ngày>-m1-xu-huong-cuoi-nam.md`, kèm tối đa 5 đề xuất. Chỉ đọc, không chi tiền.
+  - **Giao việc cho m1 (Nghiên cứu thị trường):** lịch tự động **thứ Hai và thứ Năm, 08:13 giờ VN**. Lần đầu 09/11. Mỗi lần mở phiên mới và **có thông báo về điện thoại**. Báo cáo lưu ở `NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/<ngày>-m1-xu-huong-cuoi-nam.md`, kèm tối đa 5 đề xuất. Chỉ đọc, không chi tiền.
     - Lưu ý: lịch này **không mang theo connector** (Shopify, Meta, Kittl…). Việc này không cần connector nên không ảnh hưởng. Nếu sau này cần thì tạo lại lịch trên claude.ai.
   - **Cặp ảnh 1** (40 token), mẫu Tired. Went Anyway:
     - [A1 · David · ảnh chính · Hoodie Charcoal](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37qvpi000000ilotf4pw82)
     - [A2 · Hanna · đang bước, cầm cà phê · Hoodie White](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw37r10f000100il8oaf5pi8)
     - Prompt có các cách giảm "vẻ AI": ánh sáng không đều, khung lệch, bối cảnh bình thường, vải nhăn, không cười tạo dáng.
-  - **[Bản mô tả 2 video](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/VIDEO_SPEC_TEST_0811.md):** mẫu áo, nam/nữ, bối cảnh, mục đích, kịch bản từng giây, cách giảm "vẻ AI", 7 tiêu chí ĐẠT, chi phí (6 giây: 420 token; 8 giây: 560). **Chưa tạo video.**
+  - **[Bản mô tả 2 video](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/VIDEO_SPEC_TEST_0811.md):** mẫu áo, nam/nữ, bối cảnh, mục đích, kịch bản từng giây, cách giảm "vẻ AI", 7 tiêu chí ĐẠT, chi phí (6 giây: 420 token; 8 giây: 560). **Chưa tạo video.**
 - **Claude tự chọn:** mẫu Tired. Went Anyway cho lô thử; giờ chạy m1 (08:13); đề xuất video 6 giây.
 - **Đã ghi ra ngoài:**
   - Lịch tự động m1.
@@ -122,7 +150,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 - **Đã làm:**
   - 6 lượt tìm web: danh sách cảnh quay thương mại điện tử, xu hướng ảnh 2026, cách các thương hiệu activewear chụp ảnh, nghiên cứu về nét mặt người mẫu, video Reels cho quần áo, ảnh áo in chữ.
-  - Viết [báo cáo + đề xuất](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/NOVDAT_PHOTO_VIDEO_STYLE_0511.md):
+  - Viết [báo cáo + đề xuất](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/NOVDAT_PHOTO_VIDEO_STYLE_0511.md):
     - Bộ ảnh chuẩn 8 kiểu cho mỗi mẫu.
     - Xu hướng ở Mỹ: ít bóng bẩy, phong cách tài liệu, điềm tĩnh.
     - Bảng nét mặt theo bối cảnh.
@@ -168,8 +196,8 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 - **Đã làm:**
   - Đóng **Tiến độ 11** (ảnh và chữ cho 3 quảng cáo đã chốt, đã đưa vào prompt).
   - Đóng **Tiến độ 42**, đổi tên thành "đợt 1". Pinterest và Reddit đã xong; phần đọc Meta theo tuổi nằm trong 4 lần kiểm tự động; TikTok bỏ.
-  - Viết [Phiếu 2 video](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/creative/PHIEU_VIDEO_UPHILL_NOTFAST_0511.md): Uphill dùng David, Not Fast đề xuất Hanna, tối đa 1.300 token, 2 cổng duyệt.
-  - Viết [hướng dẫn Klaviyo](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/KLAVIYO_SETUP_0711.md): flow thanh toán dở, form đăng ký, Welcome 2 email.
+  - Viết [Phiếu 2 video](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/PHIEU_VIDEO_UPHILL_NOTFAST_0511.md): Uphill dùng David, Not Fast đề xuất Hanna, tối đa 1.300 token, 2 cổng duyệt.
+  - Viết [hướng dẫn Klaviyo](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/2-huong-dan-cho-anh/KLAVIYO_SETUP_0711.md): flow thanh toán dở, form đăng ký, Welcome 2 email.
 - **Claude tự chọn** (anh soát):
   - Đóng Tiến độ 42 bằng cách đổi phạm vi thành "đợt 1". Không phải mọi lớp đã xong; phần còn lại đã có lịch.
   - Đề xuất Hanna cho video Not Fast.
@@ -189,7 +217,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
   3. R1 đã OFF (ảnh anh gửi xác nhận).
   4. Mục tiêu là đơn đầu tiên, làm từng bước, kiểm định kỳ rồi điều chỉnh theo số thật.
 - **Đã làm:**
-  - Viết [prompt dựng bản nháp](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/PROMPT_CLAUDE_CHROME_META_DRAFT_0811.md):
+  - Viết [prompt dựng bản nháp](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/2-huong-dan-cho-anh/PROMPT_CLAUDE_CHROME_META_DRAFT_0811.md):
     - Có luật cứng: agent **không bấm đăng**, không đụng campaign khác.
     - Đủ 11 thẻ: chữ, tiêu đề, link **đúng màu, size M** (đã lấy ID biến thể từ Shopify).
     - Có bước tắt tính năng Meta tự sửa nội dung.
@@ -227,7 +255,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
   - **Đổi thẻ 2.2 Not Fast và 3.2 Carb-Loaded sang ảnh nam**, vì chữ in đậm, dễ đọc nhất. Kết quả: 11 thẻ = **8 nam / 3 nữ**, vẫn đủ 11 thiết kế.
     - [2.2 Not Fast, nam](https://cdn.shopify.com/s/files/1/0684/2400/7778/files/9296570421104185714_4096.jpg)
     - [3.2 Carb-Loaded, nam](https://cdn.shopify.com/s/files/1/0684/2400/7778/files/11588925129593356339_4096.jpg)
-  - Cập nhật [hướng dẫn dựng campaign](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/META_CAMPAIGN_SETUP_TEST_08-14-11.md):
+  - Cập nhật [hướng dẫn dựng campaign](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/2-huong-dan-cho-anh/META_CAMPAIGN_SETUP_TEST_08-14-11.md):
     - Bước 2: ngân sách 2 nấc.
     - Bước 7: quy tắc dừng ngày 3 và điều kiện vào nấc 2.
     - Bước 0.7: tắt campaign R1 cũ.
@@ -272,7 +300,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
   - Kết quả: 9 thẻ = **6 nam / 3 nữ**, mỗi quảng cáo 3 thẻ (2 nam + 1 nữ), thẻ nam đứng đầu. Tiêu đề thẻ giữ nguyên. 11 thiết kế vẫn có mặt trong 5 quảng cáo.
   - Rủi ro: nếu 2 video không kịp 08/11 thì 2 mẫu này vắng mặt.
   - Phương án B và C ghi trong `q26`.
-- **Đã làm:** viết [hướng dẫn dựng campaign Meta](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/META_CAMPAIGN_SETUP_TEST_08-14-11.md).
+- **Đã làm:** viết [hướng dẫn dựng campaign Meta](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/2-huong-dan-cho-anh/META_CAMPAIGN_SETUP_TEST_08-14-11.md).
   - Gồm 7 bước và checklist cuối, theo cấu trúc anh chốt 03/11.
   - Có bước **tắt mọi tính năng Meta tự sửa nội dung**, vì Meta có thể tự viết lại chữ thành câu khẩn cấp, sai Honest Commerce.
   - Có bước **đăng ở trạng thái tắt**, anh tự bật ngày 08/11.
@@ -297,7 +325,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 - **Anh chốt:** không gán cố định Hanna hay David cho sản phẩm. Mỗi ảnh chọn model theo bối cảnh cho hợp. Trước khi tạo, Claude gửi danh sách "ảnh nào, bối cảnh nào, model nào, vì sao" để anh chốt.
 - **Đã làm:**
   - Lưu 3 CSV: gifts for runners, christmas sweatshirt, ugly christmas sweater.
-  - Thêm mục 6 vào [báo cáo Pinterest 18–34](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-pinterest-18-34.md) và cập nhật bảng §7.
+  - Thêm mục 6 vào [báo cáo Pinterest 18–34](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/2026-11-05-pinterest-18-34.md) và cập nhật bảng §7.
 - **Kết quả chính** (Mỹ, 18–34; mức §7 chỉ là gợi ý):
   - **Gifts for runners:** tăng 90% trong tháng, đang ở đỉnh, ngang năm ngoái. Đây là mùa quà bình thường.
   - **Ugly christmas sweater(s):** tăng 300% trong tháng, 100% trong tuần. Cụm "ideas" tăng 100% so với năm ngoái; party, funny, DIY đều tăng.
@@ -315,8 +343,8 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 ## 05/11 — Phân tích Pinterest Trends 18–34 (5 CSV anh xuất) + câu hỏi về TikTok
 
 - **Đã làm:**
-  - Lưu 5 file CSV vào `trend-radar/pinterest-2026-11-02/`.
-  - Viết [báo cáo Pinterest 18–34](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-pinterest-18-34.md).
+  - Lưu 5 file CSV vào `NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/pinterest-2026-11-02/`.
+  - Viết [báo cáo Pinterest 18–34](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/2026-11-05-pinterest-18-34.md).
 - **Kết quả chính** (người Mỹ 18–34; mức §7 chỉ là gợi ý):
   - **Running:** các cụm đồ chạy mùa lạnh tăng 100–200% trong tháng. Gợi ý **Vừa**, nghiêng lên với Hoodie/Sweatshirt.
   - **Pickleball:** đang giảm 30–40%. Gợi ý **Thấp**.
@@ -421,7 +449,7 @@ ads.tiktok.com
 
 - **Đã làm:**
   - Kiểm mạng sau khi anh mở: Arctic Shift (kho dữ liệu Reddit), YouTube và các trang tìm web vào được. Riêng reddit.com trả 403 (Reddit chặn IP máy chủ), engine tự lấy qua Arctic Shift.
-  - Chạy lệnh chính cho 3 ngách, cộng 3 lượt tìm web. Báo cáo: [Trend Radar 05/11](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/trend-radar/2026-11-05-trend-radar-3-ngach.md).
+  - Chạy lệnh chính cho 3 ngách, cộng 3 lượt tìm web. Báo cáo: [Trend Radar 05/11](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/2026-11-05-trend-radar-3-ngach.md).
   - **Running:** 15 thread. Gợi ý §7: Vừa cho chủ đề "chạy mùa đông, chạy dù mệt"; Thấp cho nhu cầu áo in.
   - **Pickleball:** 9 thread. Gợi ý: Thấp (không ai bàn áo). Chủ đề đùa có thể tự viết: điểm trình, nghiện mua vợt.
   - **Noel:** 0 cụm đạt ngưỡng. Chưa đủ bằng chứng; đề xuất chạy lại khoảng 20/11.
@@ -429,9 +457,9 @@ ads.tiktok.com
     - YouTube **bị chặn** trên cloud (đòi đăng nhập; cookie bị cấm nên không lấy).
     - Mọi báo cáo ghi "chưa lọc được tại Mỹ".
     - Mức §7 chỉ là gợi ý; điểm chính thức do người chấm theo Hiến chương.
-- **Claude tự chọn:** lưu báo cáo vào thư mục `trend-radar/` trong repo GitHub riêng tư, vì container cloud sẽ bị xoá. Không đăng công khai ở đâu. Chọn topic phụ cho từng ngách theo file lệnh mẫu.
+- **Claude tự chọn:** lưu báo cáo vào thư mục `NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/` trong repo GitHub riêng tư, vì container cloud sẽ bị xoá. Không đăng công khai ở đâu. Chọn topic phụ cho từng ngách theo file lệnh mẫu.
 - **Đã ghi ra ngoài:**
-  - GitHub: báo cáo + 3 file gốc của engine (`trend-radar/raw/`, có tên tài khoản Reddit; chỉ dùng nội bộ).
+  - GitHub: báo cáo + 3 file gốc của engine (`NOVDAT_TAI_LIEU/1-bao-cao/trend-radar/raw/`, có tên tài khoản Reddit; chỉ dùng nội bộ).
   - Thị trấn: Tiến độ 41 chuyển sang xong, kèm tóm tắt và link.
   - Không ghi gì lên Shopify.
 - **Về đề nghị cho Claude dùng Chrome local:** chưa cần. Để có YouTube, cách gọn hơn là anh chạy chính lệnh `/novdat-trend:last30days …` trong Claude Code trên máy anh. IP nhà thường không bị YouTube chặn và không cần cookie. Nếu vẫn muốn dùng Chrome, nên tạo một hồ sơ Chrome **mới, không đăng nhập**, để Claude không chạm vào phiên đăng nhập của anh (đúng luật không đọc cookie).
@@ -514,7 +542,7 @@ Bấm xong báo Claude để chạy thử `/novdat-trend:last30days winter runni
 ### Câu 6. Checklist
 
 - Checklist kiểm DEV: 9 mục ở câu 1–2.
-- Checklist audit 10 bước: [báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md).
+- Checklist audit 10 bước: [báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md).
 
 ### Câu 7. Rào Honest Commerce và IP: bắt buộc
 
