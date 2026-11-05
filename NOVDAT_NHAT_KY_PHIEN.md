@@ -10,6 +10,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
   - **Đã ghi ra ngoài:** mọi thứ Claude ghi vào Shopify, Thị trấn, GitHub hay dịch vụ khác. Không có thì ghi "Không".
   - **Chờ anh quyết:** chỉ anh quyết được, Claude không tự làm.
 - Chỗ nào Claude tự chọn theo mặc định hoặc tự hiểu ý anh thì ghi rõ "Claude tự chọn" để anh soát.
+- **Quyền đặc biệt** (đăng nhập tài khoản của anh, đọc cookie, chi tiền, ghi lên LIVE) chỉ dùng khi anh gõ đúng câu **"đây là ngoại lệ"** (Founder chốt 05/11). Quyền thường thì Claude báo cần gì, anh thấy hợp lý thì cấp.
 
 ## Quyết định đang chờ anh (gộp)
 
@@ -22,6 +23,48 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 | 5 | Checklist 10 bước của audit (ảnh 1, 2, 4, 5, 7) | — | khi rảnh | [Báo cáo audit, mục 6](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md) |
 
 **Đã chốt (không còn chờ):** giữ "Rào Honest Commerce và IP" (05/11); gỡ server MCP `kittl` local (05/11).
+
+---
+
+## 05/11 — Kế hoạch dữ liệu Mỹ 18–35: anh duyệt lớp 1 + 2 + 3
+
+- **Anh đã duyệt:**
+  - Lớp 1 + 2 + 3 (miễn phí), không làm khảo sát trả phí.
+  - Anh sẽ tự thêm các domain bên dưới.
+  - Lớp 1: Claude chỉ đọc kết quả Meta.
+  - Quyền đặc biệt chỉ khi anh gõ "đây là ngoại lệ".
+- **Danh sách anh cần thêm vào Allowed domains** (claude.ai/code → menu môi trường ở thanh tiêu đề phiên → Edit → Network access):
+
+```
+trends.google.com
+www.gstatic.com
+ssl.gstatic.com
+fonts.googleapis.com
+fonts.gstatic.com
+trends.pinterest.com
+www.pinterest.com
+api.pinterest.com
+s.pinimg.com
+i.pinimg.com
+ads.tiktok.com
+*.tiktokcdn.com
+*.tiktokcdn-us.com
+*.ttwstatic.com
+*.byteoversea.com
+*.ibytedtos.com
+```
+
+  Ba trang này dựng bằng JavaScript nên Claude mở bằng trình duyệt không giao diện (Chromium có sẵn trên máy cloud). Danh sách trên là các domain cần cho lần chạy đầu. Nếu trang còn gọi domain khác, Claude sẽ báo đúng tên domain còn thiếu.
+- **Không đưa vào danh sách:**
+  - `www.facebook.com`: thay bằng công cụ xem quảng cáo đối thủ của Adspirer. Hợp quy định hơn việc cào trang Facebook, nhưng tốn lượt.
+  - `www.amazon.com`: Amazon chặn bot, và cào trang dễ vi phạm điều khoản.
+- **Quyền cho lớp 1:** không cần thêm. Adspirer đã nối tài khoản Meta "podnew" (chỉ đọc), Shopify đọc được. Gói Adspirer: 15 lượt mỗi tháng, đã dùng 4. Claude dùng 2–4 lượt, vào 10/11 và 15/11.
+- **Có thể cần "đây là ngoại lệ":** nếu Pinterest Trends hoặc TikTok Creative Center bắt đăng nhập mới cho xem bộ lọc tuổi, Claude **dừng và báo**, không tự đăng nhập.
+- **Đã ghi ra ngoài:**
+  - Thị trấn: Tiến độ 42 (mới) ghi kế hoạch, lịch đọc Meta và luật quyền.
+  - File nhật ký này: thêm luật "đây là ngoại lệ".
+  - Không đụng Shopify hay Meta.
+- **Chờ anh:** thêm domain rồi báo Claude chạy.
 
 ---
 
