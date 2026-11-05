@@ -26,6 +26,33 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Anh chốt: ảnh quảng cáo phương án C, ngân sách phương án A
+
+- **Anh chốt:**
+  - `q26` = **C**: đổi sang ảnh người mẫu nam của chính thiết kế đó.
+  - `q27` = **A**: ngân sách 2 nấc. Nấc 1 là $50/ngày, 08–11/11. Nấc 2 tối đa $115, chỉ chi khi có tín hiệu. Trần tổng $315.
+- **Đã làm:**
+  - Đọc ảnh 5 sản phẩm đang dùng ảnh nữ trên Shopify (chỉ đọc). Cả 5 đều có ảnh nam cùng màu.
+  - Xem cả 5 ảnh nam: đều đạt, chữ in rõ, tay không che. Riêng Five More (áo đen) chữ in nhỏ.
+  - **Đổi thẻ 2.2 Not Fast và 3.2 Carb-Loaded sang ảnh nam**, vì chữ in đậm, dễ đọc nhất. Kết quả: 11 thẻ = **8 nam / 3 nữ**, vẫn đủ 11 thiết kế.
+    - [2.2 Not Fast, nam](https://cdn.shopify.com/s/files/1/0684/2400/7778/files/9296570421104185714_4096.jpg)
+    - [3.2 Carb-Loaded, nam](https://cdn.shopify.com/s/files/1/0684/2400/7778/files/11588925129593356339_4096.jpg)
+  - Cập nhật [hướng dẫn dựng campaign](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/guides/META_CAMPAIGN_SETUP_TEST_08-14-11.md):
+    - Bước 2: ngân sách 2 nấc.
+    - Bước 7: quy tắc dừng ngày 3 và điều kiện vào nấc 2.
+    - Bước 0.7: tắt campaign R1 cũ.
+- **Claude tự chọn:** 2 thẻ nào đổi sang nam (trong phạm vi phương án C anh chọn).
+- **Đã ghi ra ngoài:**
+  - Thị trấn:
+    - `q26`, `q27`: đã duyệt.
+    - Tiến độ 11: bảng ảnh và link mới.
+    - Tiến độ 14 và việc `t-ads-build`: ngân sách mới.
+  - GitHub: file hướng dẫn.
+  - Không đụng Meta hay Shopify.
+- **Chờ anh** (xem chat): 4 điểm cuối cùng trước khi dựng campaign.
+
+---
+
 ## 05/11 — Ngân sách test: $315/7 ngày hay $200/4 ngày?
 
 - **Đã làm:** đọc kết quả Meta 60 ngày qua Adspirer (chỉ đọc, 1 lượt; đã dùng 5/15 lượt tháng này).

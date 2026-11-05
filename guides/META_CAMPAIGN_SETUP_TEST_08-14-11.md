@@ -1,7 +1,7 @@
 # Hướng dẫn dựng campaign Meta — Test In Motion 08–14/11
 
 Dành cho: Founder tự dựng trong Meta Ads Manager (business.facebook.com → Ads Manager). Khoảng 45–60 phút.
-Cấu trúc đã chốt 03/11: **1 campaign Sales · 1 ad set · 5 quảng cáo (3 băng chuyền ảnh + 2 video) · $315 / 7 ngày · Mỹ · 25–45 tuổi · bỏ Audience Network · tối ưu Purchase.**
+Cấu trúc đã chốt 03/11, cập nhật 05/11: **1 campaign Sales · 1 ad set · 3 băng chuyền ảnh (+ 2 video nếu kịp) · ngân sách 2 nấc (nấc 1: $50/ngày × 4 ngày = $200; nấc 2: tối đa $115, chỉ khi có tín hiệu) · Mỹ · 25–45 tuổi · bỏ Audience Network · tối ưu Purchase.**
 
 > Giao diện Meta đổi thường xuyên. Tên nút có thể khác một chút, nhưng thứ tự các bước giữ nguyên. Gặp chỗ khác với hướng dẫn thì chụp màn hình gửi Claude.
 
@@ -16,7 +16,8 @@ Cấu trúc đã chốt 03/11: **1 campaign Sales · 1 ad set · 5 quảng cáo 
 | 0.3 | Pixel/dataset "pod" hoạt động | Events Manager → dataset "pod" | AddToCart, InitiateCheckout "Active" (đã kiểm 02/11) |
 | 0.4 | Tên miền đã xác minh | Business settings → Brand safety → Domains | `novdat.com` có dấu xanh |
 | 0.5 | Trang Facebook và Instagram nối với tài khoản quảng cáo | Business settings → Accounts | Có Page NOVDAT và IG NOVDAT |
-| 0.6 | Ảnh và video đã duyệt | Thị trấn, Tiến độ 11 và 12 | 9 ảnh (bản sửa 05/11) + 2 video |
+| 0.6 | Ảnh và video đã duyệt | Thị trấn, Tiến độ 11 và 12 | 11 ảnh (bản 05/11: thẻ 2.2 và 3.2 đổi sang người mẫu nam) + 2 video nếu kịp |
+| 0.7 | Campaign cũ đã tắt | Ads Manager → Campaigns | "R1_Sales_US_20-10_v2" ở trạng thái OFF |
 
 Thiếu mục nào thì dừng, báo Claude.
 
@@ -38,10 +39,10 @@ Thiếu mục nào thì dừng, báo Claude.
 2. **Conversion location:** Website.
 3. **Dataset/Pixel:** `pod`. **Conversion event:** **Purchase** (đã chốt 03/11).
    - *Lưu ý của Claude, không phải quyết định:* store chưa có đơn nào, nên tối ưu Purchase có thể học chậm. Quy tắc dừng ngày 3 (dưới đây) vẫn giữ để kiểm soát. Muốn đổi sang tối ưu Add to cart thì anh quyết (loại C).
-4. **Budget & schedule:**
-   - Chọn **Lifetime budget: $315**.
-   - Start: **08/11/2026 00:00**, End: **14/11/2026 23:59**. Múi giờ theo tài khoản quảng cáo; kiểm lại múi giờ là giờ Mỹ (ET).
-   - Muốn dễ dừng giữa chừng thì dùng **Daily $45** thay cho Lifetime. Cả hai đều ra khoảng $315.
+4. **Budget & schedule** (anh chốt 05/11: 2 nấc):
+   - **Nấc 1:** chọn **Daily budget: $50**. Start: **08/11/2026 00:00**, End: **11/11/2026 23:59** (4 ngày, khoảng $200). Múi giờ theo tài khoản quảng cáo; kiểm lại múi giờ là giờ Mỹ (ET).
+   - **Nấc 2** (chỉ khi đạt điều kiện ở Bước 7): kéo End date tới **14/11/2026 23:59**. Tắt các quảng cáo yếu, dồn **tối đa $115** (khoảng $38/ngày × 3 ngày) vào 1–2 quảng cáo tốt nhất.
+   - **Trần tổng: $315.**
 5. **Audience:**
    - Locations: **United States** (People living in or recently in this location).
    - Age: **25–45**. Nếu Meta mở chế độ "Advantage+ audience", chọn dùng tuổi 25–45 làm **giới hạn cứng** (tuỳ chọn "Further limit the reach…" hoặc "original audience options"), để Meta không chạy ra ngoài độ tuổi.
@@ -56,7 +57,7 @@ Thiếu mục nào thì dừng, báo Claude.
 
 ## Bước 3 — Tạo 3 quảng cáo băng chuyền (carousel)
 
-Làm lần lượt Quảng cáo ảnh 1, 2, 3 theo **bảng ảnh đã duyệt** (Thị trấn, Tiến độ 11; bản sửa 05/11 là 3 thẻ mỗi quảng cáo).
+Làm lần lượt Quảng cáo ảnh 1, 2, 3 theo **bảng ảnh đã duyệt** (Thị trấn, Tiến độ 11; bản 05/11: QC1 4 thẻ, QC2 4 thẻ, QC3 3 thẻ; 8 thẻ nam, 3 thẻ nữ).
 
 Mỗi quảng cáo:
 1. Tên: `AD_IMG1_MorningAnyway` / `AD_IMG2_OwnPace` / `AD_IMG3_EverydayRun`
@@ -100,8 +101,9 @@ Mỗi quảng cáo:
 | Khi nào | Xem gì | Quyết định (anh) |
 |---|---|---|
 | Mỗi tối | Spend, CTR (link), CPC, Add to cart, Initiate checkout, Purchase | Ghi 1 dòng vào Thị trấn |
-| **Ngày 3 (~$135 đã chi)** | **Add to cart = 0?** | **= 0 thì DỪNG** (đã chốt) |
+| **Ngày 3, 10/11 (~$150 đã chi)** | **Add to cart = 0?** | **= 0 thì DỪNG HẲN**, không vào nấc 2 |
 | 10/11 | Claude đọc kết quả theo tuổi, giới tính, bang, vị trí (chỉ đọc) | Xem nhóm nào phản hồi |
+| **Tối 11/11 (hết nấc 1, ~$200)** | Có ≥1 Add to cart, **hoặc** link CTR ≥1% **và** CPC ≤ $1,5? | **Có:** vào nấc 2 (Bước 2). **Không:** để campaign tự hết hạn, không chi thêm |
 | 15/11 | Tổng kết test | Chọn mẫu và hướng tiếp |
 
 Không sửa quảng cáo trong 3 ngày đầu (để Meta học), trừ khi gặp quy tắc dừng.
@@ -111,7 +113,8 @@ Không sửa quảng cáo trong 3 ngày đầu (để Meta học), trừ khi g�
 ## Checklist cuối trước khi bấm Publish
 
 - [ ] Tài khoản podnew, pixel pod, Purchase.
-- [ ] Lifetime $315 (hoặc Daily $45), 08–14/11.
+- [ ] Daily $50, 08–11/11 (nấc 1). Trần tổng $315.
+- [ ] Campaign R1 cũ đã OFF.
 - [ ] Mỹ, 25–45 (giới hạn cứng), All genders.
 - [ ] Audience Network đã bỏ.
 - [ ] 3 carousel (đúng thứ tự thẻ, đúng link màu) + 2 video.
