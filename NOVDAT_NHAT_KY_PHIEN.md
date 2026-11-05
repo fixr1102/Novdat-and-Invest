@@ -26,6 +26,27 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Video quảng cáo: cổng 1 (ảnh khung đầu) với 2 model NOVDAT
+
+- **Anh chốt:** 1 video nam và 1 video nữ, dùng 2 model AI của NOVDAT; 1 video mặc hoodie tối màu. Mục tiêu hôm nay: chuẩn bị 99% cho ngày 08/11.
+- **Đã làm:**
+  - Kiểm Kittl (tài khoản Dat's Team): kết nối được, tạo được ảnh và video qua connector.
+  - Kiểm ảnh 2 model: David (6 ảnh), Hanna (2 ảnh); đều nhìn như ảnh chụp thật.
+  - Đưa mockup thật của áo lên Kittl làm tham chiếu (0 token): Uphill Hoodie Black, Not Fast Hoodie White.
+  - Tạo 2 ảnh khung đầu bằng GPT Image 2.5 Sunburst-HQ (**40 token**):
+    - [David · Uphill · Hoodie Black](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw378ghz000000il29vhwqyz): đồi mùa đông, quần đùi chạy, giày xám không logo.
+    - [Hanna · Not Fast · Hoodie White](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw378kmg000100ilefz60pfg): phố chiều tối có đèn đường.
+  - Cập nhật Phiếu: Uphill đổi sang Hoodie Black.
+- **Giới hạn:** Kittl chỉ cho Claude xem ảnh 384px, và domain `cache.kittl.com` bị mạng cloud chặn. Vì vậy Claude **chưa soát được từng ký tự ở cỡ lớn**; anh phóng to kiểm giúp.
+- **Claude tự chọn:** chia áo tối màu cho video Uphill. Lý do: đồi trời xám thì áo đen nổi; phố chiều tối thì áo trắng nổi.
+- **Đã ghi ra ngoài:**
+  - Kittl: 2 ảnh mockup tải lên, 2 ảnh tạo mới.
+  - Thị trấn: Tiến độ 12 (60%, có link); Hàng đợi `q28` đổi thành cổng 1.
+  - GitHub: Phiếu.
+- **Chờ anh:** phóng to 2 ảnh kiểm chữ và logo tay áo. Đạt thì nhắn **"OK video"**, Claude tạo 2 video thử (~560 token).
+
+---
+
 ## 05/11 — Tiến độ việc: từ 11/20 lên 13/20, kế hoạch đi tới 20/20
 
 - **Đã làm:**
