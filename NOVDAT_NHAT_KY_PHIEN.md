@@ -26,6 +26,22 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Chạy lớp 2 (Google Trends, Pinterest Trends, TikTok) từ cloud: không thành
+
+- **Đã làm:** mở 3 nguồn bằng trình duyệt chạy ngầm trên cloud, mỗi nguồn 1 lần, không đăng nhập.
+
+| Nguồn | Kết quả | Lý do |
+|---|---|---|
+| Google Trends | Lỗi 429 "quá nhiều yêu cầu" | Google giới hạn IP máy chủ. Thử lại không giúp; Claude dừng để không bị chặn lâu hơn |
+| Pinterest Trends | Chỉ xem được trang tổng quan và Editors' Picks | Muốn tra từ khoá, lọc tuổi hay giới tính thì **bắt đăng nhập** |
+| TikTok Creative Center | Chỉ thấy top 3 hashtag chung của Mỹ (#hairtok, #tiktokscaryhorrorcontest, #halloweekend) | Muốn tra hashtag riêng hay xem tuổi người xem thì **bắt đăng nhập** |
+
+- **Theo luật:** Claude **không đăng nhập**, không dùng tài khoản hay cookie của anh. Đăng nhập là quyền đặc biệt, chỉ dùng khi anh gõ "đây là ngoại lệ".
+- **Đã ghi ra ngoài:** Thị trấn, Tiến độ 42: ghi rõ lớp 2 không chạy được từ cloud. Không đụng Shopify hay Meta.
+- **Chờ anh chọn cách** (xem chat): A, B hoặc C.
+
+---
+
 ## 05/11 — Kế hoạch dữ liệu Mỹ 18–35: anh duyệt lớp 1 + 2 + 3
 
 - **Anh đã duyệt:**
