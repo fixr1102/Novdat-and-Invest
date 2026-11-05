@@ -26,6 +26,21 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Chốt hướng ảnh quảng cáo (T4, quần dài) + cặp thẻ đầu tiên
+
+- **Anh chốt:** T4 ổn nhưng đổi quần đùi thành quần dài (jogger hoặc kaki bó ống); T2a ổn; T3 "trông AI rõ"; T1 loại; hướng T4 hoặc T2a đều được. Xác nhận danh sách 11 mẫu đúng.
+- **Đã làm:**
+  - Làm cặp thẻ đầu: thẻ 2 [First Light, David, jogger](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3izz8e000000ilma8670vh) và thẻ 3 [Tired. Went Anyway., Hanna, kaki bó ống](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3j030g000100il016749dq). Tự nhìn bản xem trước: tự nhiên, quần dài, chữ in đọc đúng. **[CẦN KIỂM]** chữ in và logo tay áo trên bản gốc.
+  - Đo chi phí: **40 token cho 2 ảnh** (6.320 → 6.280), đúng giá niêm yết.
+  - Xếp ảnh vào thư mục David và Hanna trên Kittl.
+  - Ghi bảng 11 thẻ (mẫu, người, quần, bối cảnh) vào [mục 7c](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/KITTL_TINH_NANG_VA_CACH_DUNG_0511.md).
+- **Claude tự chọn:** quần tối cho áo sáng, quần đá cho áo tối; bối cảnh từng thẻ; thẻ nữ giữ theo bảng đã chốt.
+- **Chưa làm được:** kiểm thư mục `DesignForNOVDAT` trên máy local (phiên cloud không đọc được máy anh); anh chưa gửi danh sách file.
+- **Đã ghi ra ngoài:** Kittl (2 ảnh). GitHub.
+- **Chờ anh:** chấm 2 thẻ; cho phép làm 9 thẻ còn lại (≈ 180 token, từng cặp một); gửi danh sách file design.
+
+---
+
 ## 05/11 — Chạy thử 4 mẫu ảnh Kittl + kiểm thư mục design
 
 - **Anh chốt:** chỉ chạy thử 4 mẫu ảnh (không làm video UGC); các ảnh design của 11 mẫu ở `C:\Users\DAT\Desktop\Plan with CLAUDE\DesignForNOVDAT` trên máy local; yêu cầu Claude kiểm đủ chưa.

@@ -95,6 +95,30 @@ Sản phẩm thử: *Tired. Went Anyway.* Hoodie **Charcoal**, ảnh gốc là �
 
 **Chi phí thật:** số dư Kittl giảm **450 token** trong lượt này (từ ~6.770 xuống 6.320), **nhiều hơn dự tính ~100**. Tôi chưa tách được workflow nào tốn bao nhiêu; công cụ không trả số token từng lần chạy. Nghi ngờ: workflow có Brand Kit tốn hơn giá cơ bản, hoặc job video lỗi trước đó bị trừ muộn. **Anh xem lịch sử token trong Kittl để chắc.** Từ giờ tôi đo số dư trước và sau **từng** lần chạy.
 
+## 7c. Công thức chốt cho 11 thẻ ảnh (Founder 05/11): "T4 bản 2, quần dài"
+
+**Founder chốt:** hướng T4 (tự dựng) hoặc T2a đều được; **thay quần đùi thể thao bằng quần dài** (jogger hoặc kaki thể thao bó ống chân). T3 "trông AI rõ", T1 loại.
+
+**Công thức (mỗi thẻ):** GPT Image 2.5 Sunburst-HQ, 4:5, 20 token. Tham chiếu: ảnh **Front** của đúng mẫu và màu (Shopify) + ảnh nhân vật (David hoặc Hanna). Ánh sáng ngày hoặc nắng nghiêng nhẹ theo Brand Kit, không flash. Quần dài: tông tối cho áo sáng, tông đá/kaki cho áo tối. Chữ in quay về phía máy, không bị tay hay túi che. Nền không chữ. Không hơi thở khói.
+
+| Thẻ | Mẫu | Người | Quần | Bối cảnh | Trạng thái |
+|---|---|---|---|---|---|
+| 1 | Five More Minutes. Then Miles. · Sweatshirt Black | Hanna | kaki đá, bó ống | bậc thềm trước tường thạch cao | chưa làm |
+| 2 | First Light. Open Field. · Hoodie White | David | jogger xám than | bờ sông bê tông, trời xám | **[xong](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3izz8e000000ilma8670vh)** |
+| 3 | Tired. Went Anyway. · Hoodie Charcoal | Hanna | kaki đá, bó ống | phố gạch nâu Brooklyn, cầm cà phê | **[xong](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3j030g000100il016749dq)** |
+| 4 | Running to Think Less. · Sweatshirt Sand | David | jogger đen | đường công viên, ghế gỗ | chưa làm |
+| 5 | Proudly Mid-Pack · Sweatshirt Black | David | jogger xám sáng | phố gạch, vạch qua đường | chưa làm |
+| 6 | Not Fast. Still Out Here. · Hoodie White | David | jogger đen | vỉa hè cạnh tường thạch cao | chưa làm |
+| 7 | Still Running. · Hoodie Sand | David | jogger xám than | bậc thang bờ sông | chưa làm |
+| 8 | Uphill, Slowly. · Sweatshirt White | Hanna | jogger đen | con dốc có bậc thang | chưa làm |
+| 9 | Cold Miles. · Sweatshirt White | David | jogger xám than | công viên cây trụi lá, trời xám | chưa làm |
+| 10 | Carb-Loaded Barely Trained · Hoodie White | David | jogger đen | cửa quán cà phê (không che chữ) | chưa làm |
+| 11 | Run Now. Stay Strong. · Hoodie Black | David | kaki đá | quảng trường bê tông | chưa làm |
+
+Người mẫu theo bảng 11 thẻ đã chốt (8 nam, 3 nữ; thẻ Not Fast đổi sang nam).
+
+**Chi phí đo thật:** cặp thẻ 2 và 3 tốn **40 token** (6.320 → 6.280), đúng giá niêm yết. Còn 9 thẻ ≈ 180 token. Con số 450 của lượt thử trước nằm ở các workflow có Brand Kit, không phải ảnh tự dựng.
+
 ## 8. Cần anh chốt
 
 1. Cho tôi chạy **thử 4 mẫu ảnh + 1 video thử (khoảng 180 token)** như mục 7 không?
