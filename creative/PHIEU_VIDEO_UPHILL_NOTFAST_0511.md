@@ -1,4 +1,6 @@
-# Phiếu 2 quảng cáo video — test 08–14/11 ([ĐỀ XUẤT], chờ Founder duyệt)
+# Phiếu 2 quảng cáo video — test 08–14/11
+
+> **Cập nhật 05/11 (Founder):** 1 video nam (David · Uphill · Hoodie **Black**) + 1 video nữ (Hanna · Not Fast · Hoodie White). Đang ở **cổng 1**: ảnh khung đầu.
 
 Luật áp dụng (Founder chốt 01/11 và 05/11):
 - Phiếu được duyệt trước khi tạo; làm **1 bản thử** trước, đạt mới làm tiếp.
@@ -12,19 +14,19 @@ Tài khoản Kittl: Dat's Team, còn **7.800 token** (tháng 6.000 + thêm 1.600
 
 ---
 
-## Video 1 — Uphill, Slowly. (Hoodie White)
+## Video 1 — Uphill, Slowly. (Hoodie **Black**, đổi 05/11 theo Founder: 1 video áo tối màu)
 
 | Mục | Nội dung |
 |---|---|
 | Model | **David** (giữ như Phiếu 01/11: chạy bộ sáng, hợp bối cảnh đồi) |
-| Bối cảnh | Con dốc đồi mùa đông lúc sáng sớm, trời xám nhạt, hơi thở thành khói. David chạy chậm lên dốc, đều nhịp, không phô diễn |
+| Bối cảnh | Con dốc đồi mùa đông lúc sáng sớm, trời xám nhạt, hơi thở thành khói. David chạy chậm lên dốc, đều nhịp, không phô diễn. Áo đen nổi trên nền trời xám |
 | Khung hình | 9:16, 8 giây |
 | Nhịp | 0–2s: chân chạy chậm trên mặt đường dốc · 2–6s: máy lùi dần thấy David và **mặt trước áo** (chữ "UPHILL, slowly." + núi đọc rõ) · 6–8s: tới đỉnh dốc, thở ra, không ăn mừng |
 | Chữ trên video (Founder ghép) | "One step at a time." |
 | Primary text | The new running collection: getting past our own limit is enough, one step at a time. |
 | Headline | One step at a time |
 | Dòng AI | Visuals created with AI. |
-| Link | https://novdat.com/products/uphill-slowly-hoodie (màu White) |
+| Link | https://novdat.com/products/uphill-slowly-hoodie?variant=50809876938850 (Black, size M) |
 
 ## Video 2 — Not Fast. Still Out Here. (Hoodie White)
 
@@ -32,7 +34,7 @@ Tài khoản Kittl: Dat's Team, còn **7.800 token** (tháng 6.000 + thêm 1.600
 
 | Mục | Nội dung |
 |---|---|
-| Model | **Hanna (đề xuất).** Phương án khác: David |
+| Model | **Hanna** (Founder chốt 05/11: 1 video nam, 1 video nữ) |
 | Vì sao Hanna | Thẻ ảnh của Not Fast đã là người mẫu nam. Video dùng Hanna giữ cân bằng: toàn test thành **9 nam / 4 nữ**, vẫn nam nhiều hơn như anh muốn. Bối cảnh "người mới tập, chạy chậm mà vẫn ra đường" hợp với cả hai giới |
 | Bối cảnh | Vỉa hè khu dân cư lúc chiều tối mùa thu, đèn đường vừa bật. Hanna chạy chậm, dừng chống gối thở, rồi chạy tiếp |
 | Khung hình | 9:16, 8 giây |
