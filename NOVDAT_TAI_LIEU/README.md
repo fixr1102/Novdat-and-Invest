@@ -29,6 +29,7 @@ Mọi file Claude tạo cho anh đều nằm trong thư mục này. **Đọc fil
 | [Pinterest 18–34](1-bao-cao/trend-radar/2026-11-05-pinterest-18-34.md) | Phân tích 8 file CSV Pinterest Trends | Xong 05/11 |
 | [Dữ liệu Pinterest](1-bao-cao/trend-radar/pinterest-2026-11-02/) | 8 file CSV gốc anh xuất | Dữ liệu |
 | [Dữ liệu gốc engine](1-bao-cao/trend-radar/raw/) | Kết quả thô Reddit, chỉ dùng nội bộ | Dữ liệu |
+| [Ảnh nút Buy Now sau khi sửa (DEV)](1-bao-cao/dev-theme-buy-now-0511/) | Ảnh điện thoại và máy tính của theme DEV | 05/11, chờ anh duyệt |
 | **2-huong-dan-cho-anh/** | | |
 | [Dựng campaign Meta test 08–14/11](2-huong-dan-cho-anh/META_CAMPAIGN_SETUP_TEST_08-14-11.md) | 7 bước + checklist, ngân sách 2 bậc | Chờ anh làm |
 | [Prompt Claude in Chrome](2-huong-dan-cho-anh/PROMPT_CLAUDE_CHROME_META_DRAFT_0811.md) | Dựng bản nháp campaign, anh tự đăng | Chờ anh làm |

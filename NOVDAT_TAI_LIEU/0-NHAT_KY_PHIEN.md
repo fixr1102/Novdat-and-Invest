@@ -26,6 +26,25 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 05/11 — Sửa nút Buy Now trên theme DEV + kế hoạch edit video Hanna
+
+- **Anh chốt:**
+  - Mục 1, 2, 3, 5–9 của checklist DEV: ổn.
+  - Mục 4: Buy Now phải là nút cùng kích thước, bố cục hợp với Add to cart, dễ nhận biết (khách muốn mua luôn thì bấm được ngay).
+  - Video Hanna lần 2 "ổn hơn"; cần thêm nhạc, hook, ghép chữ, edit.
+- **Đã làm:**
+  - Sửa `blocks/buy-now.liquid` trên theme **DEV** (role UNPUBLISHED, LIVE không bị đụng): Buy Now thành **nút viền**, cùng rộng, cùng cao (52px), cùng bo góc 10px, cùng cỡ chữ (16px) với Add to cart, xếp ngay dưới Add to cart. Add to cart vẫn là nút đặc; Shop Pay nằm dưới.
+  - Đo bằng trình duyệt trên bản xem trước DEV, khổ điện thoại 390px và máy tính 1280px: hai nút bằng nhau. Ảnh sau khi sửa ở [thư mục này](https://github.com/fixr1102/Novdat-and-Invest/tree/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/dev-theme-buy-now-0511).
+  - Cập nhật Thị trấn (Tiến độ 24): mục 5 và mục 4 của checklist, thêm 2 link ảnh.
+  - Viết [kế hoạch edit video Hanna](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/3-creative/VIDEO_SPEC_TEST_0811.md): chữ hook theo từng giây, thẻ cuối, nhạc, điều không làm.
+- **Claude tự chọn:**
+  - Buy Now dạng nút viền (không phải nút đặc thứ hai), để chỉ có một nút đặc là Add to cart. Anh muốn Buy Now cũng đặc thì nói.
+  - Không bấm thử Buy Now trên store thật (sẽ thêm hàng vào giỏ). Anh bấm thử trên điện thoại.
+- **Đã ghi ra ngoài:** Shopify: 1 file trên theme DEV. Thị trấn: `p24`. GitHub: ảnh, kế hoạch edit.
+- **Chờ anh:**
+  1. Xem lại theme DEV trên điện thoại (link ở Tiến độ 24), bấm thử Buy Now. Đúng ý thì **anh** bấm Publish.
+  2. Gửi file mp4 video Hanna vào chat để tôi kiểm 7 tiêu chí.
+
 ## 05/11 — Video Hanna lần 2 (12 giây, kịch bản mới)
 
 - **Anh chốt** (sau khi xem lần 1: bối cảnh trông AI, kịch bản và chuyển động chưa đúng, mặt và dáng chưa ổn):

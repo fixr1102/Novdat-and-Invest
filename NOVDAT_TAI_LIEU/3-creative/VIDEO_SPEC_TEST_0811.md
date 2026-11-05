@@ -105,6 +105,34 @@ Token còn: **7.720**.
   - Job `cmw39f9mm000100il32c66vml` bị lỗi: model không cho dùng ảnh khung mở cùng ảnh tham chiếu. Không trừ token.
   - Chạy lại với ảnh khung mở làm **tham chiếu thứ nhất**: [video lần 2](https://www.kittl.com/ai-studio/video-generator?microEdit=cmw39ort6000000il9dlzxdfg) (job `cmw39ort6000000il9dlzxdfg`, 12,1 giây). Chờ anh chấm 7 tiêu chí.
 
+## Kế hoạch edit Video Hanna (anh ghép bằng CapCut, [ĐỀ XUẤT])
+
+Anh nhận xét video lần 2 "ổn hơn" và cần edit thêm để hấp dẫn hơn. Dưới đây là kế hoạch edit theo từng giây. Nguyên tắc: **tắt tiếng vẫn hiểu**, chữ ngắn, chữ in trên áo không bị che.
+
+| Giây | Hình | Chữ trên màn hình | Ghi chú |
+|---|---|---|---|
+| 0–3 | Hanna chạy tới | **"Quick break. Not done."** hiện từ giây 0,3, nằm ở 1/3 phía trên khung, chữ trắng có bóng nhẹ | Hook. Cắt 0,3 giây đầu nếu AI mở hơi chậm |
+| 3–7 | Hanna tới gần, dừng nghỉ | Không chữ | Để **chữ in trên áo** đọc rõ, không đè gì lên ngực |
+| 7–10 | Vui vẻ ngắm phố | Không chữ | Cảnh "thở". Có thể cắt bớt 0,5 giây nếu thấy dài |
+| 10–12 | Chạy tiếp, lướt qua máy | Thẻ cuối: **"New: In Motion"** và tên áo **"Not Fast. Still Out Here."** | Thẻ nền tối 1,5 giây, chữ nhỏ gọn |
+
+**Âm thanh:**
+- Giữ tiếng phố của Kittl làm nền.
+- Thêm **1 bản nhạc nhẹ** nhịp 95–110 BPM (acoustic hoặc lo-fi, không lời) ở mức nhỏ hơn tiếng phố, khoảng -18 dB.
+- Nhạc chọn từ thư viện nhạc của Meta Ads Manager hoặc CapCut (lọc "dùng cho thương mại").
+- Không dùng nhạc trending.
+
+**Không làm:**
+- Không slow-motion, không hiệu ứng zoom giật, không lọc màu điện ảnh (anh đã nói "AI quá").
+- Không chữ thuyết minh dài.
+- Không "you/your", không khẩn cấp giả.
+
+**Khung hình cho feed:** xuất 9:16 cho Reels/Stories. Nếu cần feed vuông, cắt 4:5 giữ Hanna và chữ in ở giữa.
+
+**Nhãn AI:** ghi "Visuals created with AI." ở cuối nội dung chữ của quảng cáo (không ghi trên video).
+
+**Nhờ anh một việc nhỏ:** tải video từ Kittl về rồi **gửi file mp4 vào chat này**. Tôi sẽ cắt khung hình và kiểm 7 tiêu chí (chữ in, mặt, logo tay áo, chữ lạ trong nền) như đã làm với 2 video tham khảo. Hiện tôi không tải được video từ Kittl nên chưa tự kiểm được.
+
 ## Âm thanh: công cụ và luật
 
 | Cách | Dùng cho | Ghi chú |
