@@ -1,5 +1,12 @@
 # Audit tâm lý mua hàng: giỏ hàng và PDP — novdat.com, 05/11/2026
 
+> **Cập nhật 05/11 (sau báo cáo):**
+> - Anh chốt T5: ngưỡng $75 tính **sau** giảm giá, nên câu "(after discounts)" là đúng.
+> - Anh chọn Q1 phương án A; Q2 và Q3 làm cùng Q1. Cả ba đã sửa trên theme mới **"DEV - Copy fixes 05/11 (Q1-Q3)"** (id 166940704866), nhân bản từ LIVE. **LIVE chưa bị đụng.**
+> - Kiểm toàn bộ 148 sản phẩm active: cả 97 Hoodie/Sweatshirt đều là 50/50 cotton-poly, không cái nào garment-dyed; Tee đều garment-dyed; không sản phẩm nào bán 2XL.
+> - Hai hoodie In Motion nhận traffic ads (Tired. Went Anyway, Cold Miles) có cùng các lỗi Q1. Nên publish trước test 08/11.
+> - Việc còn lại của anh: xem trước DEV, publish; thêm $4.99 và ngưỡng $75 vào Shipping policy. Đã ghi vào Thị trấn (Tiến độ mục 23–24, Hàng đợi Q1–Q3).
+
 Chỉ đọc. Không ghi gì lên LIVE, không bấm Add to cart, không checkout. Mọi đề xuất ở mục 5 là **[ĐỀ XUẤT] của Claude, chưa phải quyết định của anh**.
 
 ## 1. Phạm vi và nguồn
