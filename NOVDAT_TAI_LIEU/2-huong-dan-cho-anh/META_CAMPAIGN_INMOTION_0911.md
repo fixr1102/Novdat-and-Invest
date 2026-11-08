@@ -81,7 +81,25 @@ Visuals created with AI.
 | 2 | `3-2_CarbLoaded_HoodieWhite.jpg` | David, cửa quán (**ảnh mới**) | A very busy day, still dinner | https://novdat.com/products/carb-loaded-barely-trained-hoodie?variant=50809496404066 |
 | 3 | `3-3_RunNow_HoodieBlack.jpg` | David, quảng trường bê tông (**ảnh mới**) | Run Now. Stay Strong. | https://novdat.com/products/run-now-stay-strong-hoodie?variant=50808188305506 |
 
-Link ảnh Kittl của từng thẻ: Claude ghi vào Thị trấn (Tiến độ 11) khi làm xong và anh duyệt.
+### Link tải 11 ảnh (làm xong 08/11, Claude tự kiểm chữ in)
+
+Bấm link "Tải" để mở ảnh gốc PNG, lưu với đúng tên file. Link "Kittl" để xem hoặc sửa trên Kittl.
+
+| File | Tải | Kittl |
+|---|---|---|
+| `1-1_FiveMore_SweatBlack.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qai2k000100ilgrsoq0r2.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qai2k000100ilgrsoq0r2) |
+| `1-2_Tired_HoodieCharcoal.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qadwh000000iloflrb5qg.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qadwh000000iloflrb5qg) |
+| `1-3_FirstLight_HoodieWhite.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw3izz8e000000ilma8670vh.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3izz8e000000ilma8670vh) |
+| `1-4_RunningThinkLess_SweatSand.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qcdib000000ila9vxhnoe.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qcdib000000ila9vxhnoe) |
+| `2-1_Uphill_HoodieBlack.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw3hbydb00120iriyhsfz6za.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3hbydb00120iriyhsfz6za) |
+| `2-2_NotFast_HoodieWhite.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qcgtw000100ilvpn4x8k2.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qcgtw000100ilvpn4x8k2) |
+| `2-3_ProudlyMidPack_SweatBlack.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qdvmg000000ilupsn3pm4.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qdvmg000000ilupsn3pm4) |
+| `2-4_StillRunning_HoodieSand.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qdzr7000100ilk8hbumvn.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qdzr7000100ilk8hbumvn) |
+| `3-1_ColdMiles_SweatWhite.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qfvqv000000ilk7k33xy1.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qfvqv000000ilk7k33xy1) |
+| `3-2_CarbLoaded_HoodieWhite.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qfyzt000100ilvbfk2bd5.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qfyzt000100ilvbfk2bd5) |
+| `3-3_RunNow_HoodieBlack.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qhs9v000000ilvu2rfabl.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qhs9v000000ilvu2rfabl) |
+
+Tên file ghi `.jpg` cho gọn; lưu PNG cũng được, Meta nhận cả hai.
 
 ## 4. Hai quảng cáo video
 
@@ -93,6 +111,11 @@ Link ảnh Kittl của từng thẻ: Claude ghi vào Thị trấn (Tiến độ 
 | Văn bản chính | The new running collection: getting past our own limit is enough, one step at a time.<br><br>Visuals created with AI. | New: In Motion: every morning, every day, our own goal.<br><br>Visuals created with AI. |
 | Tiêu đề | One step at a time | From hard to easy |
 | URL | https://novdat.com/products/uphill-slowly-hoodie?variant=50809876938850 | https://novdat.com/products/not-fast-still-out-here-hoodie?variant=50809497518178 |
+
+**Video (anh chốt 08/11):** giữ gần như bản gốc, **không thêm chữ hook**. Chỉ ghép nhạc hợp tinh thần thể thao và NOVDAT (nhịp vừa, sáng, không ồn). Nhạc phải có quyền dùng cho quảng cáo:
+- **Cách 1 (nhanh nhất):** trong Ads Manager, ở bước tải video, chọn nhạc thủ công từ thư viện nhạc của Meta (nhạc trong thư viện này được phép dùng cho quảng cáo). Đây là anh tự chọn, khác với "thêm nhạc tự động" của Advantage+ (vẫn tắt). **[CẦN KIỂM]** vị trí nút trên giao diện của anh; không thấy thì dùng cách 2.
+- **Cách 2:** CapCut, chỉ chọn bài có nhãn dùng thương mại (Commercial), xuất 9:16, rồi tải lên.
+- Không dùng nhạc tải từ YouTube, Spotify hay TikTok: Meta có thể chặn hoặc tắt tiếng quảng cáo.
 
 ## 5. Thứ tự làm (khoảng 60 phút)
 

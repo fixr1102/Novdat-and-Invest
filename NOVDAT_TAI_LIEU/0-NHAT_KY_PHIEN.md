@@ -38,7 +38,10 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 - **Claude tự chọn:** thứ tự thẻ theo mạch câu chuyện; Tired đổi sang David (luật người mẫu nữ); giữ người mẫu theo bảng 7c cho các thẻ còn lại.
 - **Chưa làm được:** mockup Gildan cần file PNG thiết kế; thư mục máy anh chưa chia sẻ được cho phiên cloud (danh sách Remote Control trống).
 - **Đã ghi ra ngoài:** Shopify (1 giảm giá), lịch Claude (4 giờ chạy), Thị trấn, GitHub.
-- **Chờ anh:** duyệt 9 ảnh mới (180 token); xác nhận chữ 2 video; video đã có chữ hook chưa.
+- **Anh duyệt tiếp (08/11):** tạo 9 ảnh mới (180 token); chữ 2 video OK; video giữ gần bản gốc, không thêm chữ hook, chỉ ghép nhạc.
+- **Đã làm tiếp:** tạo 9 ảnh trên Kittl (GPT Image 2.5 Sunburst-HQ, 4:5, 20 token/ảnh, 5 lượt, tham chiếu ảnh Shopify đúng mẫu-màu + David/Hanna). Tự xem từng ảnh: chữ in khớp sản phẩm, quần dài, ánh sáng ngày. [CẦN KIỂM] chữ nhỏ trên bản gốc (Five More, Still Running, Cold Miles, Run Now). Bảng link tải 11 ảnh + cách thêm nhạc đã ghi vào hướng dẫn campaign 09/11.
+- **Meta/Adspirer:** đọc lại được (không còn lỗi hết hạn). Công cụ báo tài khoản podnew có **0 pixel** qua API: [CẦN KIỂM] dataset "pod" còn gắn với tài khoản quảng cáo không (Bước 0.3).
+- **Chờ anh:** xem 11 ảnh; dựng và đăng campaign trước 00:00 New York 09/11.
 
 ---
 
