@@ -17,6 +17,7 @@ Mọi file Claude tạo cho anh đều nằm trong thư mục này. **Đọc fil
 | `2-huong-dan-cho-anh/` | Hướng dẫn anh tự làm: Meta, Klaviyo, prompt Claude in Chrome |
 | `3-creative/` | Ảnh, video, hook: phiếu, bản mô tả video, kho phong cách David & Hanna, Hook Lab |
 | `4-doi-agent/` | Đội agent NOVDAT: vai, lịch, quy trình |
+| `5-ban-giao/` | Bàn giao giữa các phiên (file + prompt khởi động) |
 
 ## Mục lục
 
@@ -59,3 +60,5 @@ Mọi file Claude tạo cho anh đều nằm trong thư mục này. **Đọc fil
 
 - File mới luôn vào đúng 1 trong 4 thư mục trên. Không tạo file ở gốc repo.
 - Mỗi file mới thêm 1 dòng vào mục lục này.
+| **5-ban-giao/** | | |
+| [Bàn giao sang phiên Cowork 08/11](5-ban-giao/BAN_GIAO_COWORK_2026-11-08.md) | Luật, hiện trạng, campaign 09/11, thư viện Hanna, tổ chức, việc tiếp theo, prompt khởi động | 08/11 |
