@@ -45,6 +45,7 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 - **Anh chốt thêm:** thân dưới đa dạng, không vi phạm bản quyền (không sọc, logo hãng khác), áo là điểm nhấn; pixel "pod" vẫn hoạt động; múi giờ tài khoản là giờ Mỹ; nhạc anh tự ghép bằng CapCut hoặc kho nhạc Meta; thanh toán Meta anh đã setup.
 - **Lô 1 pose Hanna (thư viện):** 2 ảnh được duyệt "tạm ổn" và chuyển vào `Hanna - Character`: HANNA_01_Walking_FullBody (băng qua vạch đi bộ), HANNA_03_SideProfile_FullBody (nghiêng 3/4). 80 token cho lô này (làm 2 lần). Kế hoạch 8 pose còn lại, học từ 2 bảng ảnh Google (chỉ lấy kiểu dáng, bỏ nhảy/múa/áo ngực thể thao/nhãn hiệu); lô 2 đề xuất: 04 quay lưng ngoái đầu + 07 ngồi bậc thềm.
 - **Phân vai (anh đồng ý 08/11):** mã vai Thị trấn là chuẩn; thêm m7 Biên tập video, mở rộng e2; ghi vào thẻ Tiến độ p44 và các việc (không sửa trang). Việc Ops mới + o3 đã kiểm 11 biến thể link quảng cáo (còn bán, đúng màu, đúng giá). Xem [quy trình](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/tender-pasteur-qu3u12/NOVDAT_TAI_LIEU/4-doi-agent/DOI_MARKETING_QUY_TRINH_0811.md).
+- **Sửa trang Thị trấn (anh duyệt 08/11, đăng bản 22):** nhân vật "Trưởng nhóm" đổi tên Founder; thêm Thư ký NOVDAT đi cùng Founder; thêm 3 Trưởng nhóm (m0, o0, e0) và vai m7 Biên tập video. Panel Trưởng nhóm tự tổng hợp tiến độ cả nhóm. Đã thử trên trình duyệt (không lỗi). Báo cáo đầu tiên của 3 Trưởng nhóm và Thư ký đã ghi vào Thị trấn.
 - **Chờ anh:** xem 11 ảnh; dựng và đăng campaign trước 00:00 New York 09/11.
 
 ---

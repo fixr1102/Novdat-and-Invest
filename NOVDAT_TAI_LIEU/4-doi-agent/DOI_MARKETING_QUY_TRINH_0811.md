@@ -4,6 +4,13 @@ Mã vai theo Thị trấn NOVDAT (m1–m6 Marketing, o1–o6 Ops, e1–e4 EVO). 
 
 Đối chiếu tên cũ → mã vai: Trinh sát = m1 (+ e1 Trend Radar) · Hook Lab = m3 · Gác cổng chữ = m6 · Xưởng = m4 · Đọc số = m5 · Chánh văn phòng = Orchestrator (lịch "Xử lý việc từ Thị trấn").
 
+## Cấu trúc báo cáo (Founder chốt 08/11)
+
+- **Founder** (nhân vật Founder trên bản đồ) hỏi **Thư ký NOVDAT** (Orchestrator: Claude chat, Muse hoặc Claude Code; nhân vật luôn đi cùng Founder).
+- Thư ký làm việc với 3 **Trưởng nhóm** (Marketing m0, Ops o0, EVO e0). Mỗi Trưởng nhóm báo: nhóm đang làm gì, xong đến đâu, kẹt gì, việc nào phải xong trước để đạt mục tiêu gần nhất.
+- Tiến độ của từng agent **tự động** về Trưởng nhóm: trang Thị trấn tự tổng hợp từ việc, lần chạy và hàng chờ (agent chỉ cần cập nhật trạng thái việc như hiện nay). Báo cáo viết tay của Trưởng nhóm và Thư ký chỉ cập nhật **khi Founder yêu cầu**, ghi ở mục `reports` (kind `lead` cho Trưởng nhóm).
+- Dữ liệu nằm trong kho dữ liệu của Thị trấn (không chứa mật khẩu, token); báo cáo quan trọng đã có bản trong GitHub.
+
 ## Dây chuyền
 
 | # | Bước | Đầu mối | Việc cụ thể | Cổng |
