@@ -26,6 +26,22 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 08/11 (chiều) — Anh trả lời q32: Black Friday, Klaviyo A, campaign 09/11, Đội Marketing 7 bước
+
+- **Anh chốt:** Klaviyo A (WELCOME10 mời khách mới, Buy 2 save 15% giữ chân); Black Friday "OK apply"; bỏ 3 hook UGC; mục 40 duyệt, thực hành; không chạy lại Creative Trend Lab; cho dùng mockup Gildan Premium (không dùng tính năng mới, không tự tạo video); ảnh 3 = Uphill tuyết; video Not Fast = bản Hanna nói vào máy; campaign chạy 00:00 New York 09/11, ngân sách giữ 2 nấc; gộp 6 vai thành Đội Marketing 7 bước.
+- **Đã làm:**
+  - Shopify: tạo giảm giá tự động **"Black Friday 20% - Hoodies & T-Shirts (27-30 Nov)"**, 20% collection Hoodie + Tee, 27/11 00:00 → 30/11 23:59 ET, không cộng dồn. Trạng thái: Lên lịch.
+  - Kiểm 20 ảnh AI Creations + Uploads trên Kittl; tìm mockup Gildan 18500/18000 (tất cả Premium).
+  - Viết [hướng dẫn campaign 09/11](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/tender-pasteur-qu3u12/NOVDAT_TAI_LIEU/2-huong-dan-cho-anh/META_CAMPAIGN_INMOTION_0911.md): thông điệp, 3 băng chuyền 11 thẻ + 2 video, chữ đã duyệt, link đúng màu.
+  - Viết [quy trình Đội Marketing 7 bước](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/tender-pasteur-qu3u12/NOVDAT_TAI_LIEU/4-doi-agent/DOI_MARKETING_QUY_TRINH_0811.md).
+  - Dời giờ 4 lần đọc số tự động sang 11/11, 12/11, 13/11, 16/11 (UTC 01:30/06:30). Nội dung lời nhắc vẫn ghi tên cũ "0811": không sửa được từ phiên này; đã ghi tên và ngày mới vào Tiến độ 14 để lần chạy đọc theo.
+- **Claude tự chọn:** thứ tự thẻ theo mạch câu chuyện; Tired đổi sang David (luật người mẫu nữ); giữ người mẫu theo bảng 7c cho các thẻ còn lại.
+- **Chưa làm được:** mockup Gildan cần file PNG thiết kế; thư mục máy anh chưa chia sẻ được cho phiên cloud (danh sách Remote Control trống).
+- **Đã ghi ra ngoài:** Shopify (1 giảm giá), lịch Claude (4 giờ chạy), Thị trấn, GitHub.
+- **Chờ anh:** duyệt 9 ảnh mới (180 token); xác nhận chữ 2 video; video đã có chữ hook chưa.
+
+---
+
 ## 08/11 — Đối chiếu file 7 mục của anh với Thị trấn, Shopify, Meta
 
 - **Anh giao:** kiểm file tổng hợp 7 mục (Muse soạn, 08/11); cập nhật phần anh đã duyệt/kiểm; tìm hiểu phần còn lại; hỏi lại chỗ chưa rõ.

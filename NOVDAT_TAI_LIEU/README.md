@@ -33,7 +33,8 @@ Mọi file Claude tạo cho anh đều nằm trong thư mục này. **Đọc fil
 | [Dữ liệu gốc engine](1-bao-cao/trend-radar/raw/) | Kết quả thô Reddit, chỉ dùng nội bộ | Dữ liệu |
 | [Ảnh nút Buy Now sau khi sửa (DEV)](1-bao-cao/dev-theme-buy-now-0511/) | Ảnh điện thoại và máy tính của theme DEV | 05/11, chờ anh duyệt |
 | **2-huong-dan-cho-anh/** | | |
-| [Dựng campaign Meta test 08–14/11](2-huong-dan-cho-anh/META_CAMPAIGN_SETUP_TEST_08-14-11.md) | 7 bước + checklist, ngân sách 2 bậc | Chờ anh làm |
+| [Dựng campaign Meta test 08–14/11](2-huong-dan-cho-anh/META_CAMPAIGN_SETUP_TEST_08-14-11.md) | 7 bước + checklist, ngân sách 2 bậc | Các bước bấm vẫn dùng; ngày và chữ xem bản 09/11 |
+| [Campaign In Motion 09/11 (bản mới)](2-huong-dan-cho-anh/META_CAMPAIGN_INMOTION_0911.md) | Thông điệp, 5 quảng cáo, toàn bộ chữ + link để dán, lịch 09–15/11 | 08/11, chờ ảnh + anh dựng |
 | [Prompt Claude in Chrome](2-huong-dan-cho-anh/PROMPT_CLAUDE_CHROME_META_DRAFT_0811.md) | Dựng bản nháp campaign, anh tự đăng | Chờ anh làm |
 | [Klaviyo](2-huong-dan-cho-anh/KLAVIYO_SETUP_0711.md) | Flow bỏ giỏ, form, Welcome | Chờ anh làm |
 | **3-creative/** | | |
@@ -45,7 +46,8 @@ Mọi file Claude tạo cho anh đều nằm trong thư mục này. **Đọc fil
 | [Phiếu video Uphill / Not Fast](3-creative/PHIEU_VIDEO_UPHILL_NOTFAST_0511.md) | Phiếu đầu (đã thay bằng bản mô tả video) | Lưu |
 | `3-creative/hook-lab/` | Phiếu Hook Lab hằng tuần (thứ Sáu, từ 14/11) | Tự sinh |
 | **4-doi-agent/** | | |
-| [Đội agent NOVDAT](4-doi-agent/NOVDAT_AGENT_TEAM_DE_XUAT.md) | 6 vai, dây chuyền 1 chủ đề, lịch | **Đã duyệt 05/11** |
+| [Đội Marketing: quy trình 7 bước](4-doi-agent/DOI_MARKETING_QUY_TRINH_0811.md) | Gộp 6 vai thành dây chuyền ý tưởng → kiểm → video → edit → báo cáo → design | **Founder chốt 08/11** |
+| [Đội agent NOVDAT](4-doi-agent/NOVDAT_AGENT_TEAM_DE_XUAT.md) | 6 vai, dây chuyền 1 chủ đề, lịch | Đã duyệt 05/11, thay bằng quy trình 08/11 |
 
 ## Không nằm trong thư mục này (vì lý do kỹ thuật)
 
