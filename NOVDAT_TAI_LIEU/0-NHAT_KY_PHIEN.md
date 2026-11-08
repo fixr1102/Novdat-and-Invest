@@ -26,6 +26,25 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 
 ---
 
+## 08/11 — Đối chiếu file 7 mục của anh với Thị trấn, Shopify, Meta
+
+- **Anh giao:** kiểm file tổng hợp 7 mục (Muse soạn, 08/11); cập nhật phần anh đã duyệt/kiểm; tìm hiểu phần còn lại; hỏi lại chỗ chưa rõ.
+- **Đã làm:**
+  - Sửa nút Buy Now trên theme **DEV**: bỏ mũi tên →, giữ chữ, màu, font. Đo lại: cùng cỡ với Add to cart. LIVE chưa bị đụng, DEV chưa publish.
+  - Đọc Shopify (chỉ đọc): mã giảm giá, giá vốn, đơn hàng, phiên 7 ngày, danh sách theme.
+  - Thử đọc Meta qua Adspirer: **kết nối đã hết hạn** (OAuth 190/460).
+  - Viết [báo cáo đối chiếu](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/CAP_NHAT_THI_TRAN_0811.md) và lưu [bản gốc file 7 mục](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/eager-sagan-t943vz/NOVDAT_TAI_LIEU/1-bao-cao/NOVDAT_THI_TRAN_7_MUC_TONG_HOP_2026-11-08.md).
+  - Cập nhật Thị trấn (theo lời anh): mục 12 → Xong; mục 22 → tạm dừng (hạn xem lại 07/01/2027); mục 24 → 90%, ghi sửa Buy Now; mục 21 → "Chờ anh" kèm dữ kiện; mục 30 → Black Friday kèm biên lợi nhuận; ghi chú mục 14, 40, 44; KPI "current" theo số 08/11; việc `t-video-two` → Xong; việc `t-gift-seed` → tạm dừng; thẻ mới `q32` gom các quyết định.
+- **Claude tự chọn:**
+  - Giữ nhãn "Buy Now" (theo bản dịch của theme), không đổi thành chữ hoa "NOW".
+  - Không đổi trạng thái mục 14 và 40 vì dữ liệu mâu thuẫn; hỏi anh.
+  - Đề xuất Klaviyo phương án A, giảm 20% chỉ áp Hoodie và T-Shirt, style ảnh trầm. Đây là đề xuất, anh quyết.
+- **Phát hiện cần anh biết:** Meta/Adspirer hết hạn; `t-ads-build` ghi Xong 06/11 mà mục 14 chưa làm; `t-org-plan` ghi anh đã Duyệt lúc 14:02 05/11; WELCOME10 đã tồn tại (Muse ghi sai); chưa có giảm giá 20%; báo cáo Creative Trend Lab chưa có trên GitHub; việc cloud "Xử lý việc từ Thị trấn" không có quyền vào kho.
+- **Đã ghi ra ngoài:** Shopify: 1 file trên theme DEV. Thị trấn: 12 ghi. GitHub: 2 file mới, mục lục.
+- **Chờ anh:** xem thẻ `q32` (8 câu).
+
+---
+
 ## 05/11 — Chốt hướng ảnh quảng cáo (T4, quần dài) + cặp thẻ đầu tiên
 
 - **Anh chốt:** T4 ổn nhưng đổi quần đùi thành quần dài (jogger hoặc kaki bó ống); T2a ổn; T3 "trông AI rõ"; T1 loại; hướng T4 hoặc T2a đều được. Xác nhận danh sách 11 mẫu đúng.

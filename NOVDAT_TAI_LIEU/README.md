@@ -24,6 +24,8 @@ Mọi file Claude tạo cho anh đều nằm trong thư mục này. **Đọc fil
 |---|---|---|
 | [0-NHAT_KY_PHIEN.md](0-NHAT_KY_PHIEN.md) | Nhật ký phiên + quyết định chờ anh | Cập nhật liên tục |
 | **1-bao-cao/** | | |
+| [Cập nhật Thị trấn 08/11](1-bao-cao/CAP_NHAT_THI_TRAN_0811.md) | Đối chiếu file 7 mục của anh với hiện trạng thật; mã giảm giá, biên lợi nhuận Black Friday, Klaviyo | 08/11, chờ anh |
+| [File 7 mục của Founder (08/11)](1-bao-cao/NOVDAT_THI_TRAN_7_MUC_TONG_HOP_2026-11-08.md) | Bản gốc anh gửi, lưu để đối chiếu | Nguồn |
 | [Audit tâm lý giỏ hàng + PDP](1-bao-cao/NOVDAT_AUDIT_TAMLY_CART_PDP_2026-11-05.md) | Rà PDP và giỏ hàng, chỉ đọc; checklist 10 bước | Xong 05/11 |
 | [Trend Radar 3 ngách](1-bao-cao/trend-radar/2026-11-05-trend-radar-3-ngach.md) | Số tương tác Reddit 30 ngày: chạy bộ, pickleball, Noel | Xong 05/11 |
 | [Pinterest 18–34](1-bao-cao/trend-radar/2026-11-05-pinterest-18-34.md) | Phân tích 8 file CSV Pinterest Trends | Xong 05/11 |
