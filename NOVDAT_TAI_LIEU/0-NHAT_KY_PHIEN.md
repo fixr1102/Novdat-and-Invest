@@ -43,6 +43,8 @@ File này cập nhật sau **mỗi lần** Claude báo kết quả cho anh trong
 - **Meta/Adspirer:** đọc lại được (không còn lỗi hết hạn). Công cụ báo tài khoản podnew có **0 pixel** qua API: [CẦN KIỂM] dataset "pod" còn gắn với tài khoản quảng cáo không (Bước 0.3).
 - **Sửa lỗi (anh chỉ ra):** Cold Miles và Still Running phải là Hanna (luật: mẫu nữ chỉ 3 thiết kế Five More, Cold Miles, Still Running). Tôi đã dùng David do lấy bảng 05/11 mà không đối chiếu luật. Làm lại 2 ảnh bằng Hanna (40 token): Cold Miles với quần track nylon navy trơn; Still Running với short đen 5 inch, tất trắng. Tired giữ David.
 - **Anh chốt thêm:** thân dưới đa dạng, không vi phạm bản quyền (không sọc, logo hãng khác), áo là điểm nhấn; pixel "pod" vẫn hoạt động; múi giờ tài khoản là giờ Mỹ; nhạc anh tự ghép bằng CapCut hoặc kho nhạc Meta; thanh toán Meta anh đã setup.
+- **Lô 1 pose Hanna (thư viện):** 2 ảnh được duyệt "tạm ổn" và chuyển vào `Hanna - Character`: HANNA_01_Walking_FullBody (băng qua vạch đi bộ), HANNA_03_SideProfile_FullBody (nghiêng 3/4). 80 token cho lô này (làm 2 lần). Kế hoạch 8 pose còn lại, học từ 2 bảng ảnh Google (chỉ lấy kiểu dáng, bỏ nhảy/múa/áo ngực thể thao/nhãn hiệu); lô 2 đề xuất: 04 quay lưng ngoái đầu + 07 ngồi bậc thềm.
+- **Phân vai (anh đồng ý 08/11):** mã vai Thị trấn là chuẩn; thêm m7 Biên tập video, mở rộng e2; ghi vào thẻ Tiến độ p44 và các việc (không sửa trang). Việc Ops mới + o3 đã kiểm 11 biến thể link quảng cáo (còn bán, đúng màu, đúng giá). Xem [quy trình](https://github.com/fixr1102/Novdat-and-Invest/blob/claude/tender-pasteur-qu3u12/NOVDAT_TAI_LIEU/4-doi-agent/DOI_MARKETING_QUY_TRINH_0811.md).
 - **Chờ anh:** xem 11 ảnh; dựng và đăng campaign trước 00:00 New York 09/11.
 
 ---
