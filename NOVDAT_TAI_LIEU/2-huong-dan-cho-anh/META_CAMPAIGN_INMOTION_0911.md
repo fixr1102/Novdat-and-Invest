@@ -63,7 +63,7 @@ Visuals created with AI.
 ```
 | Thẻ | File ảnh | Ảnh | Tiêu đề | URL |
 |---|---|---|---|---|
-| 1 | `2-1_Uphill_HoodieBlack.jpg` | Hoodie treo hàng rào tuyết (**có sẵn**, anh chọn) | One step at a time | https://novdat.com/products/uphill-slowly-hoodie?variant=50809876938850 |
+| 1 | `2-1_Uphill_HoodieBlack.jpg` | David chạy lên dốc phố, hoodie đen Uphill, Slowly. (**ảnh mới 08/11, anh duyệt 09/11**, thay ảnh tuyết) | One step at a time | https://novdat.com/products/uphill-slowly-hoodie?variant=50809876938850 |
 | 2 | `2-2_NotFast_HoodieWhite.jpg` | David, vỉa hè (**ảnh mới**) | From hard to easy | https://novdat.com/products/not-fast-still-out-here-hoodie?variant=50809497518178 |
 | 3 | `2-3_ProudlyMidPack_SweatBlack.jpg` | David, vạch qua đường (**ảnh mới**) | Out there, and proud of it | https://novdat.com/products/proudly-mid-pack-sweatshirt?variant=50809041485922 |
 | 4 | `2-4_StillRunning_HoodieSand.jpg` | Hanna, bậc thang bờ sông, quần short đen (**ảnh mới**) | The little mascot keeps going | https://novdat.com/products/still-running-hoodie?variant=50809879199842 |
@@ -93,7 +93,7 @@ Bấm link "Tải" để mở ảnh gốc PNG, lưu với đúng tên file. Link
 | `1-2_Tired_HoodieCharcoal.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qadwh000000iloflrb5qg.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qadwh000000iloflrb5qg) |
 | `1-3_FirstLight_HoodieWhite.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw3izz8e000000ilma8670vh.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3izz8e000000ilma8670vh) |
 | `1-4_RunningThinkLess_SweatSand.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qcdib000000ila9vxhnoe.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qcdib000000ila9vxhnoe) |
-| `2-1_Uphill_HoodieBlack.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw3hbydb00120iriyhsfz6za.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw3hbydb00120iriyhsfz6za) |
+| `2-1_Uphill_HoodieBlack.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw80ng8h000000ilf6l7qnxk.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw80ng8h000000ilf6l7qnxk) |
 | `2-2_NotFast_HoodieWhite.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qcgtw000100ilvpn4x8k2.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qcgtw000100ilvpn4x8k2) |
 | `2-3_ProudlyMidPack_SweatBlack.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7qdvmg000000ilupsn3pm4.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7qdvmg000000ilupsn3pm4) |
 | `2-4_StillRunning_HoodieSand.jpg` | [Tải](https://cache.kittl.com/pr:sharp/plain/api/users/cmw2y84mn3det0j8ih4epc92i/uploads/cmw7r4gq0000100ilq0yb7nba.png) | [Kittl](https://www.kittl.com/ai-studio/image-generator?microEdit=cmw7r4gq0000100ilq0yb7nba) |
